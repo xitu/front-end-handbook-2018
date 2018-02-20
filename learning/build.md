@@ -27,5 +27,5 @@ Gulp 很优秀.。不过，你可能只需要 `npm run` 。在你的应用程序
 * [使用 npm Run 进行自动化任务构建](http://substack.net/task_automation_with_npm_run)
 * [使用 npm 作为下一个项目的构建系统](https://drublic.de/blog/npm-builds)
 * [使用 npm 作为任务执行者](http://teamtreehouse.com/library/using-npm-as-a-task-runner) [观看][$]
-* [为什么我因为 npm 脚本而放弃了 Gulp 和 Grunt](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
+* [为什么我不再用 Gulp 或 Grunt 构建 npm 脚本](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.z8plsoxxs)
 * [为什么选择 npm 脚本?](https://css-tricks.com/why-npm-scripts/)
