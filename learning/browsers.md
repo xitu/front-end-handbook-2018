@@ -38,7 +38,7 @@
 * [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
 * [前端开发者应该了解的网页渲染](http://frontendbabel.info/articles/webpage-rendering-101/) [阅读]
 
-![](../images/statcounter.png "http://gs.statcounter.com/browser-market-share)
+![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
 
 <cite>图片来源: <a href="http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/">http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/</a></cite>
 
