@@ -1,60 +1,32 @@
-# Learn Web Developer Tools
+# 学习 Web 开发工具
 
-> Web development tools allow web developers to test and debug their code. They are different from website builders and IDEs in that they do not assist in the direct creation of a webpage, rather they are tools used for testing the user facing interface of a website or web application.
+> Web 开发者工具允许 Web 开发者去测试并调试他们的代码。它们不同于网站建设者和 IDE ，因为它们不协助创建网页，而是用于测试面向用户的网站或 Web 应用程序界面的工具
 >
-> Web development tools come as browser add-ons or built in features in web browsers. The most popular web browsers today like, Google Chrome, Firefox, Opera, Internet Explorer, and Safari have built in tools to help web developers, and many additional add-ons can be found in their respective plugin download centers.
+> Web 开发工具作为浏览器插件或 Web 浏览器中的内置功能。目前最流行的 Web 浏览器， Chrome，Firefox，Opera，Internet Explorer，and Safari 都内置了 Web 开发者工具,  并且都可以在各自的插件中心下载许多附加的组件。
 >
-> Web development tools allow developers to work with a variety of web technologies, including HTML, CSS, the DOM, JavaScript, and other components that are handled by the web browser. Due to the increasing demand from web browsers to do more popular web browsers have included more features geared for developers.
+> Web 开发工具允许开发人员使用各种 Web 技术，包括 HTML，CSS，DOM，JavaScript 以及 Web 浏览器处理的其他组件。由于网络浏览器需求日益增加，流行的网络浏览器已经包含了更多面向开发人员的功能
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
-While most browsers come equipped with web developer tools, the [Chrome developer tools](https://developers.google.com/web/tools/chrome-devtools/) are currently the most talked about and widely used.
+虽然大多数浏览器都配备了 Web 开发者工具，但是 [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/) 是目前最受关注，使用最广泛的工具。
 
-I'd suggest learning and using the [Chrome web developer tools](https://developers.google.com/web/tools/chrome-devtools/), simply because the best resources for learning web developer tools revolves around Chrome DevTools. 
+我建议学习并使用 [Chrome web 开发者工具](https://developers.google.com/web/tools/chrome-devtools/) ，因为学习 Web 开发者工具的优秀资源都离不开 Chrome DevTools 的身影。
 
-##### Learn Chrome Web Developer Tools:
+##### 学习 Chrome Web 开发者工具:
 
-* [Chrome Developer Tools](https://code.tutsplus.com/courses/chrome-developer-tools) [watch][$]
-* [Explore and Master Chrome DevTools](http://discover-devtools.codeschool.com/) [watch]
-* [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/) [watch][$]
-* [Using The Chrome Developer Tools](http://www.pluralsight.com/courses/chrome-developer-tools) [watch][$]
-* [Learning Chrome Web Developer Tools](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) [watch][$]
+* [Chrome 开发者工具](https://code.tutsplus.com/courses/chrome-developer-tools) [观看][$]
+* [ 研究并掌握 Chrome DevTools](http://discover-devtools.codeschool.com/) [观看]
+* [掌握 Chrome 开发者工具](https://frontendmasters.com/courses/chrome-dev-tools/) [观看][$]
+* [使用 Chrome 开发者工具](http://www.pluralsight.com/courses/chrome-developer-tools) [观看][$]
+* [学习 Chrome Web 开发者工具](https://www.lynda.com/Chrome-tutorials/Learning-Chrome-Web-Developer-Tools/590844-2.html) [观看][$]
 
-##### Chrome Web Developer Tools Docs:
+##### Chrome Web 开发者工具文档:
 
-* [Command Line API Reference](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
-* [Keyboard & UI Shortcuts Reference](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
-* [Per-Panel Documentation](https://developers.google.com/web/tools/chrome-devtools/#docs)
-* [Configure and Customize DevTools](https://developer.chrome.com/devtools/docs/settings)
+* [命令行 API 参考文献](https://developers.google.com/web/tools/chrome-devtools/console/command-line-reference)
+* [键盘和用户界面快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
+* [单页面板文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
+* [配置和自定义 DevTools](https://developer.chrome.com/devtools/docs/settings)
 
-##### News/Newsletters/Podcasts/Tips:
+##### 新闻/通讯/博客/提示:
 
-* [Dev Tips](https://umaar.com/dev-tips/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [开发技巧](https://umaar.com/dev-tips/)
