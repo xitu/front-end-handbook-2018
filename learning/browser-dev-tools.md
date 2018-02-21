@@ -10,7 +10,7 @@
 
 虽然大多数浏览器都配备了 Web 开发者工具，但 [Chrome 开发者工具](https://developers.google.com/web/tools/chrome-devtools/) 是目前最受关注，使用最广泛的工具。
 
-我建议学习并使用 [Chrome web 开发者工具](https://developers.google.com/web/tools/chrome-devtools/) ，因为学习 Web 开发者工具的优秀资源都离不开 Chrome DevTools 的身影。
+我建议学习并使用 [Chrome web 开发者工具](https://developers.google.com/web/tools/chrome-devtools/) ，因为学习 Web 开发者工具的优秀资源都有 Chrome DevTools 的身影。
 
 ##### 学习 Chrome Web 开发者工具:
 
