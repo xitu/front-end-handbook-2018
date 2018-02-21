@@ -1,3 +1,3 @@
-# Directed Learning
+# 定向学习
 
-This section focuses on directed learning via schools, courses, programs and bootcamps.
+本章节着重于学校、教程、课程和训练营中的定向学习。

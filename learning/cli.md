@@ -1,46 +1,18 @@
-# Learn Command Line
+# 学习命令行
 
-> A command-line interface or command language interpreter (CLI), also known as command-line user interface, console user interface, and character user interface (CUI), is a means of interacting with a computer program where the user (or client) issues commands to the program in the form of successive lines of text (command lines).
+> 命令行界面或命令语言编译器，又叫做命令行用户界面、控制台用户界面或字符用户界面，是一种由用户（或客户端）发出一系列连续的文本指令与计算机程序进行交互的方式。
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Command-line_interface)</cite>
+><cite>&#8212; 引自[维基百科](https://en.wikipedia.org/wiki/Command-line_interface)</cite>
 
-##### General Learning:
+##### 入门篇:
 
-* [The Bash Guide](http://guide.bash.academy/) [read]
-* [Codecademy: Learn the Command Line](https://www.codecademy.com/courses/learn-the-command-line) [watch]
-* [Command Line Power User](http://commandlinepoweruser.com/) [watch]
-* [Learn Enough Command Line to Be Dangerous](http://www.learnenough.com/command-line-tutorial) [read] [free to $]
-* [Meet the Command Line](http://www.pluralsight.com/courses/meet-command-line) [watch][$]
+* [Bash 指南](http://guide.bash.academy/) [图文]
+* [Codecademy：学习命令行](https://www.codecademy.com/courses/learn-the-command-line) [视频]
+* [如何成为命令行超级用户](http://commandlinepoweruser.com/) [视频]
+* [命令行小试身手](http://www.learnenough.com/command-line-tutorial) [图文] [免费阅读，电子书需付费]
+* [初识命令行](http://www.pluralsight.com/courses/meet-command-line) [视频][付费]
 
-##### Mastering:
+##### 进阶篇:
 
-* [Advanced Command Line Techniques](https://code.tutsplus.com/courses/advanced-command-line-techniques) [watch][$]
-* [Introduction to Bash, VIM & Regex](https://frontendmasters.com/courses/bash-vim-regex/) [watch][$]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
+* [命令行高级技能](https://code.tutsplus.com/courses/advanced-command-line-techniques) [视频][付费]
+* [Bash、VIM 和正则表达式入门](https://frontendmasters.com/courses/bash-vim-regex/) [视频][付费]
