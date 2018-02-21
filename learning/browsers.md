@@ -35,7 +35,7 @@
 * [浏览器如何工作 : 现代 Web 浏览器的幕后](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [阅读]
 * [走近 Quantum : 什么是浏览器引擎 ?](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
 * [浏览器如何渲染网页](https://www.youtube.com/watch?v=SmE4OwHztCc) [阅读]
-* [What forces layout / reflow](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
+* [是什么促使了布局和回流](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
 * [前端开发者应该了解的网页渲染](http://frontendbabel.info/articles/webpage-rendering-101/) [阅读]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
@@ -53,7 +53,7 @@
 
 ##### 浏览器黑客
 
-* [browserhacks.com](http://browserhacks.com/) [阅读]
+* [浏览器黑客](http://browserhacks.com/) [阅读]
 
 ##### 浏览器开发
 
@@ -71,4 +71,4 @@
 
 ###### 建议 :
 
-[^1]  我推荐使用 chrome 浏览器，它的开发者工具在不断改进，而且目前拥有最强大的功能
+[^1]  我推荐使用 chrome 浏览器，因为它的开发者工具在不断改进，而且目前拥有最强大的功能
