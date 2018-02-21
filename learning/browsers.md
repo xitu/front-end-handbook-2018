@@ -35,7 +35,7 @@
 * [浏览器如何工作 : 现代 Web 浏览器的幕后](http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/) [阅读]
 * [走近 Quantum : 什么是浏览器引擎 ?](https://hacks.mozilla.org/2017/05/quantum-up-close-what-is-a-browser-engine/)
 * [浏览器如何渲染网页](https://www.youtube.com/watch?v=SmE4OwHztCc) [阅读]
-* [是什么促使了布局和回流](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
+* [强制布局和回流的起因](https://gist.github.com/paulirish/5d52fb081b3570c81e3a) [阅读]
 * [前端开发者应该了解的网页渲染](http://frontendbabel.info/articles/webpage-rendering-101/) [阅读]
 
 ![](../images/browsers-work.png "http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/")
