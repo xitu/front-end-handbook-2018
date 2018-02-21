@@ -1,12 +1,11 @@
-# Learn Web/Browser/App Security
 # 学习 Web 端/浏览器/移动端安全
 
 * [浏览器安全手册](https://code.google.com/p/browsersec/wiki/Main) [阅读]
 * [前端安全](https://mikewest.org/2013/09/frontend-security-frontendconf-2013) [观看]
 * [Hacksplaining 系列](https://www.hacksplaining.com/) [阅读]
-* [HTML5 Security Cheatsheet](https://html5sec.org) [read]
+* [HTML5 Security Cheatsheet](https://html5sec.org) [阅读]
 * [HTML5 安全清单](https://html5sec.org) [阅读]
-* [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) [read]
+* [HTTP Security Best Practice](https://httpsecurityreport.com/best_practice.html) [阅读]
 * [HTTP 安全最佳实践](https://httpsecurityreport.com/best_practice.html) [阅读]
 * [Web 开发中身份与数据安全的最佳实践](https://www.amazon.com/Identity-Data-Security-Web-Development/dp/1491937017?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=f5f2aaa4d5f944a3ccc316a16e3673f4&camp=1789&creative=9325) [阅读]
 * [致使用 Javascript、CSS、HTML 的 Web 开发者的安全建议](https://www.amazon.com/Security-Web-Developers-Using-JavaScript/dp/1491928646/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=df49be399d7d1a12acebe5a85637a7a8&camp=1789&creative=9325) [阅读][$]
