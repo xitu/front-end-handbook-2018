@@ -1,4 +1,4 @@
-# 无障碍学习
+# 学习可访问性
 
 > 无障碍是指为残障人士设计的产品，设备，服务或环境。可访问设计的概念确保了“直接访问”（即无辅助）和“间接访问”两者的含义，即与个人的辅助技术（例如电脑屏幕阅读器）兼容。
 >
@@ -12,20 +12,20 @@
 
 ##### 一般学习 :
 
-* [获得最基本的 Web 无障碍的 9 个技巧 ](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
-* [UX 基础 : 无障碍](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [观看][$]
+* [获得最基本的 Web 可访问性的 9 个技巧 ](https://medium.com/@realabhijeet4u/9-tips-to-get-bare-minimum-of-web-accessibility-739899a9437c)
+* [UX 基础 : 可访问性](http://www.lynda.com/Accessibility-tutorials/Foundations-UX-Accessibility/435008-2.html) [观看][$]
 * [屏幕阅读器如何支持 HTML 元素](http://thepaciellogroup.github.io/AT-browser-tests/?utm_source=html5weekly&utm_medium=email) [阅读]
-* [Web 无障碍简介](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [观看]
-* [Web 无障碍简介](https://www.w3.org/WAI/intro/accessibility.php) - WAI [阅读]
+* [Web 可访问性简介](https://webaccessibility.withgoogle.com/course) - Google Open Online Education [观看]
+* [Web 可访问性简介](https://www.w3.org/WAI/intro/accessibility.php) - WAI [阅读]
 * [Web 应用程序的通用设计 :  面向个人的 Web 应用程序](http://www.amazon.com/Universal-Design-Web-Applications-Everyone/dp/0596518730/ref=sr_1_1) [阅读][$]
-* [ 无障碍 Web : 入门](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
+* [ 可访问性 Web : 入门](http://www.pluralsight.com/courses/web-accessibility-getting-started) [watch][$]
 * [每个人的 Web](http://rosenfeldmedia.com/books/a-web-for-everyone/) [阅读][$]
-* [无障碍 Web](https://frontendmasters.com/workshops/accessibility/) [观看][$]
+* [可访问性 Web](https://frontendmasters.com/workshops/accessibility/) [观看][$]
 * [A11ycasts](https://www.youtube.com/playlist?list=PLNYkxOF6rcICWx0C9LVWWVqvHlYJyqw7g) [观看]
-* [谷歌的无障碍](https://www.udacity.com/course/web-accessibility--ud891) - Udacity course [观看] 
+* [谷歌的可访问性](https://www.udacity.com/course/web-accessibility--ud891) - Udacity course [观看] 
 
 ##### 规格 / 标准 :
 
-* [无障碍的富互联网应用程序  (WAI-ARIA) 现状](http://www.w3.org/standards/techs/aria#w3c_all)
-* [无障碍 Web 倡议 (WAI)](http://www.w3.org/WAI/)
-* [Web 内容无障碍指导  (WCAG)  现状](http://www.w3.org/standards/techs/wcag#w3c_all)
+* [可访问性的富互联网应用程序  (WAI-ARIA) 现状](http://www.w3.org/standards/techs/aria#w3c_all)
+* [可访问性 Web 倡议 (WAI)](http://www.w3.org/WAI/)
+* [Web 内容可访问性指导  (WCAG)  现状](http://www.w3.org/standards/techs/wcag#w3c_all)
