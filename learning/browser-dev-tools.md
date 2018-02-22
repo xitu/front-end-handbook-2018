@@ -4,7 +4,7 @@
 >
 > Web 开发工具作为浏览器插件或 Web 浏览器中的内置功能。目前最流行的 Web 浏览器， Chrome，Firefox，Opera，Internet Explorer，和 Safari 都内置了 Web 开发者工具,  并且都可以在各自的插件中心下载许多附加的组件。
 >
-> Web 开发工具允许开发人员使用各种 Web 技术，包括 HTML，CSS，DOM，JavaScript 以及 Web 浏览器处理的其他组件。由于网络浏览器需求日益增加，流行的网络浏览器已经包含了更多面向开发人员的功能
+> Web 开发工具允许开发人员使用各种 Web 技术，包括 HTML，CSS，DOM，JavaScript 以及 Web 浏览器处理的其他组件。由于网络浏览器需求日益增加，流行的网络浏览器已经支持了更多面向开发人员的功能
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Web_development_tools)</cite>
 
