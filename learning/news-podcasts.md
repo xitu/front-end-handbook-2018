@@ -1,6 +1,6 @@
-# Front-End Newsletters, News Sites, &amp; Podcasts
+# 前端新闻简报、新闻站点和播客
 
-##### General Front-End Newsletters, News, &amp; Podcasts:
+##### 前端通用的新闻简报、新闻站点和播客：
 
 * [The Big Web Show](http://5by5.tv/bigwebshow)
 * [Dev Tips](https://umaar.com/dev-tips/)
@@ -21,14 +21,14 @@
 * [Fresh Brewed Frontend](https://freshbrewed.co/frontend/)
 * [Pony Foo Weekly](https://ponyfoo.com/weekly)
 
-##### HTML/CSS Newsletters:
+##### HTML/CSS 新闻简报：
 
 * [Accessibility Weekly](http://a11yweekly.com/)
 * [CSS Weekly](http://css-weekly.com/archives/)
 * [CSS-Tricks](https://css-tricks.com/newsletters/)
 * [csslayout.news](http://csslayout.news/)
 
-##### JavaScript Newsletters, News, &amp; Podcasts:
+##### JavaScript 新闻简报、新闻站点和播客：
 
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/)
 * [Echo JS](http://www.echojs.com/)
@@ -42,7 +42,7 @@
 * [JSter](http://jster.net/blog)
 * [React Status](https://react.statuscode.com/)
 
-##### Graphic and Animation Newsletters and Podcasts
+##### 图像与动画新闻简报、新闻站点和播客：
 
 * [Motion and Meaning](http://motionandmeaning.io/)
 * [Responsive Images Community Group Newsletter](https://responsiveimages.org/#newsletter)
@@ -51,6 +51,6 @@
 
 ***
 
-###### NOTES:
+###### 注意:
 
-Need more Newsletters, News Sites, &amp; Podcasts look at [Awesome Newsletter](https://github.com/vredniy/awesome-newsletters).
+更多新闻简报、新闻站点和播客，可以访问：[Awesome Newsletter](https://github.com/vredniy/awesome-newsletters)。
