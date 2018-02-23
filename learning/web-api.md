@@ -1,25 +1,32 @@
-# Learn Web/Browser APIs
+# 学习 Web/浏览器 APIs
 
 ![](../images/web-api.png "http://www.evolutionoftheweb.com/")
 
-<cite>Image source: <a href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a></cite>
+<cite>图片来源: <a href="http://www.evolutionoftheweb.com/">http://www.evolutionoftheweb.com/</a></cite>
 
-The BOM (Browser Object Model) and the DOM (Document Object Model) are not the only browser APIs that are made available on the web platform inside of browsers. Everything that is not specifically the DOM or BOM, but an interface for programming the browser could be considered a web or browser API (tragically in the past some of these APIs have been called HTML5 APIs which confuses their own specifics/standardize with the actual HTML5 specification specifying the HTML5 markup language). Note that web or browser APIs do include device APIs (e.g., [`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)) that are available through the browser on tablet and phones devices.
+BOM（浏览器对象模型）和 DOM（文档对象模型）不是浏览器内部 Web 平台上唯一可用的浏览器 API。 所有不是专门用于 DOM 或 BOM 的接口，而是用于编程浏览器的接口都可以被认为是一个 Web 或浏览器 API（不幸的是，在过去，这些 API 中的一些被称为 HTML5 API，它们将自己的特性/标准与实际 HTML5 规范中指定 HTML5 标记语言相混淆）。 请注意，Web或浏览器 API 确实包含设备 API（例如[`Navigator.getBattery()`](https://developer.mozilla.org/en-US/docs/Web/API/Navigator/getBattery)）
+这些API可通过平板电脑和手机设备上的浏览器访问。
 
-You should be aware of and learn, where appropriate, web/browser APIs. A good tool to use to familiarize oneself with all of these APIs would be to investigate the [HTML5test.com results for the 5 most current browsers](https://html5test.com/compare/browser/index.html).
 
-MDN has a great deal of information about web/browser APIs.
 
-* [MDN Web API Reference](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
-* [MDN Web APIs Interface Reference - All Interfaces, Arranged Alphabetically](https://developer.mozilla.org/en-US/docs/Web/API)
-* [MDN WebAPI - Lists Device Access APIs and Other APIs Useful for Applications](https://developer.mozilla.org/en-US/docs/WebAPI)
 
-Keep in mind that not every API is specified by the W3C or WHATWG. 
+在适当的情况下，您应该了解并学习 Web/浏览器 API。 
+熟悉所有这些 API 的好工具是浏览[HTML5test.com 5个最新浏览器的结果](https://html5test.com/compare/browser/index.html)。
 
-In addition to MDN, you might find the following resources helpful for learning about all the web/browser API's:
 
-* [The HTML 5 JavaScript API Index](http://html5index.org/)
-* [HTML5 Overview](http://html5-overview.net/current)
+MDN 提供了大量有关 Web/浏览器 API 的信息。
+
+* [MDN Web API 参考](https://developer.mozilla.org/en-US/docs/Web/Reference/API)
+* [MDN Web API 接口参考 - 按字母顺序排列的所有接口](https://developer.mozilla.org/en-US/docs/Web/API)
+* [MDN WebAPI - 列出设备访问 API 和其他对应用程序有用的API](https://developer.mozilla.org/en-US/docs/WebAPI)
+
+
+请记住，并非每个 API 都由 W3C 或 WHATWG 指定。
+
+除了 MDN，您可能会发现以下资源对于了解所有 Web/浏览器 API 有帮助：
+
+* [HTML 5 JavaScript API 索引](http://html5index.org/)
+* [HTML5 概览](http://html5-overview.net/current)
 * [platform.html5.org](https://platform.html5.org/)
 
 
