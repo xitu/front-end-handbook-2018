@@ -1,70 +1,69 @@
-# Front-End Jobs Titles
+# 前端工作职位头衔
 
-Below is a list and description of various front-end job titles. The common, or most used (i.e., generic), title for a front-end developer is, "front-end developer" or "front-end engineer". Note that any job that contains the word "front-end", "client-side", "web UI", "HTML", "CSS", or "JavaScript" typically infers that a person has some degree of HTML, CSS, DOM, and JavaScript professional know how.
-
-***
-
-**Front-End Developer**
-
-The generic job title that describes a developer who is skilled to some degree at HTML, CSS, DOM, and JavaScript and implementing these technologies on the web platform.
+下面是一系列的前端工作的职位头衔。前端开发者最常见的或最常用的头衔是“前端开发者”或“前端工程师”。注意，任何带有“前端”、“客户端”、“web UI”、“HTML”、“CSS”或“JavaScript”等词汇的工作通常指一个人需要对 HTML、CSS、DOM 和 JavaScript 有一定级别的专业知识。
 
 ***
 
-**Front-End Engineer (aka JavaScript Developer or Full-stack JavaScript Developer)**
+**前端开发者**
 
-The job title given to a developer who comes from a computer science, engineering, background and is using these skills to work with front-end technologies. This role typically requires a computer science degree and years of software development experience. When the word "JavaScript Application" is included in the job title, this will denote that the developer should be an advanced JavaScript developer possessing advanced programming, software development, and application development skills (i.e has years of experience building front-end applications).
-
-***
-
-**CSS/HTML Developer**
-
-The front-end job title that describes a developer who is skilled at HTML and CSS, excluding JavaScript and Application know how.
+最通用的，用来描述一个对 HTML、CSS、DOM 和 JavaScript 拥有相关知识和技能，并能够在 web 平台上进行技术工作的人的头衔。
 
 ***
 
-**Front-End Web Designer**
+**前端工程师 （又称为 JavaScript 开发者或全栈 JavaScript 开发者）**
 
-When the word "Designer" is included in the job title, this will denote that the designer will posses front-end skills (i.e., HTML & CSS) but also professional design (Visual Design and Interaction Design) skills.
-
-***
-
-**Web/Front-End User Interface (aka UI) Developer/Engineer**
-
-When the word "Interface" or "UI" is included in the job title, this will denote that the developer should posses interaction design skills in addition to front-end developer skills or front-end engineering skills.
+这个头衔通常是给来自计算机科学，工程背景并使用相关技术进行前端工作的开发者。这个角色通常需要一个计算机科学的学位和几年软件开发的经历。当工作头衔中还包括“JavaScript 应用”时，这指着开发者应当为高级 JavaScript 开发者，并拥有高级编程，软件开发和应用开发技能（即有多年开发前端应用的经验）。
 
 ***
 
-**Mobile/Tablet Front-End Developer**
+**CSS/HTML 开发者**
 
-When the word "Mobile" or "Tablet" is included in the job title, this will denote that the developer has experience developing front-ends that run on mobile or tablet devices (either natively or on the web platform, i.e., in a browser).
-
-***
-
-**Front-End SEO Expert**
-
-When the word "SEO" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies towards an SEO strategy.
+前端开发头衔，描述了开发者拥有 HTML 和 CSS 的相关技能， 但不包括 JavaScript 和 应用相关技能。
 
 ***
 
-**Front-End Accessibility Expert**
+**前端网页设计师r**
 
-When the word "Accessibility" is included in the job title, this will denote that the developer has extensive experience crafting front-end technologies that support accessibility requirements and standards.
-
-***
-
-**Front-End Dev. Ops**
-
-When the word "DevOps" is included in the job title, this will denote that the developer has extensive experience with software development practices pertaining to collaboration, integration, deployment, automation, and measurement.
+当工作头衔中包含“设计”一词时，这意味着设计者拥有前端技能（即 HTML 和 CSS）但同时也拥有专业的设计技能（视觉设计与交互设计）。
 
 ***
 
-**Front-End Testing/QA**
+**Web/前端用户界面（UI）开发者/工程师**
 
-When the word "Testing" or "QA" is included in the job title, this will denote that the developer has extensive experience testing and managing software that involves unit testing, functional testing, user testing, and A/B testing.
+当“UI”或“界面”一词出现在头衔中时，这意味着开发者应该在掌握了前端开发或前端工程的技术下，同时掌握交互设计的技术。
 
 ***
 
-###### NOTES:
+**移动端（手机/平板）前端工程师**
 
-If you come across the "Full Stack" or the generic "Web Developer" terms in job titles these words may be used by an employer to describe a role that is responsible for all aspects of web/app development, i.e., both front-end (potentially including design) and back-end.
+当工作头衔中含有“移动”或“手机”、“平板”一词时，意味着开发者需要拥有开发移动端（手机和平板电脑）前端的经验（原生或者网页端）。
 
+***
+
+**前端 SEO 专家**
+
+当工作头衔中包含“SEO”一词时，这意味着开发者需要有丰富的针对 SEO 策略的前端提升技术。
+
+***
+
+**前端可访问性专家**
+
+当工作头衔中包含“可访问性”时，这意味着开发者要拥有丰富的前端技术经验来使网站满足可访问性（残障人士友好）的要求与标准。
+
+***
+
+**前端开发运维**
+
+当工作头衔中包含“开发运维”（"DevOps"）时，意味着开发者需要在软件开发实践的协同、集成、部署、自动化和评估方面有丰富的经验。
+
+***
+
+**前端测试/QA/质量管理**
+
+当“测试”或“QA”一词在工作头衔中出现时，这意味着前端开发者需要在关于测试和管理软件的单元测试、功能测试、用户测试和 A/B 测试方面有丰富的经验。
+
+***
+
+###### 注意：
+
+如果你在工作头衔中遇到了“全栈”或通用型“Web 开发者”，这意味着雇主所描述的是一个对整个 web/app 开发各方面负责的角色，即前端（很可能还有设计）和后端。
