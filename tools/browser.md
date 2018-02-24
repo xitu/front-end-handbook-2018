@@ -49,10 +49,10 @@
 
 ##### 托管测试/浏览器自动化：
 
-* [Browserling](https://www.browserling.com/) [free to $]
+* [Browserling](https://www.browserling.com/) [免费 $]
 * [BrowserStack](https://www.browserstack.com) [$]
 * [CrossBrowserTesting.com](http://crossbrowsertesting.com/) [$]
-* [Ghost Inspector](https://ghostinspector.com) [free to $]
+* [Ghost Inspector](https://ghostinspector.com) [免费 $]
 * [Nightcloud.io](http://nightcloud.io/)
 * [Sauce Labs](https://saucelabs.com/) [$]
 

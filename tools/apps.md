@@ -23,8 +23,8 @@
 这些解决方案通常使用[Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/),或自定义的 WebView 作为原生 API 的桥梁。
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
-* [cocoon.io](https://cocoon.io) [free to $]
-* [ionic hub](http://ionic.io/) [free to $]
+* [cocoon.io](https://cocoon.io) [免费 $]
+* [ionic hub](http://ionic.io/) [免费 $]
 * [kony](http://www.kony.com/products/mobility-platform) [$]
 * [Monaca](https://monaca.io/) [$]
 
@@ -40,7 +40,7 @@
 * [Flutter](https://flutter.io/)
 * [NativeScript](https://www.nativescript.org/)
 * [React Native](https://facebook.github.io/react-native/)
-* [tabris.js](https://tabrisjs.com/) [free to $]
+* [tabris.js](https://tabrisjs.com/) [免费 $]
 * [trigger.io](https://trigger.io/how-it-works/) [$]
 * [weex](https://weex.apache.org/)
 

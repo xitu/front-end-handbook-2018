@@ -2,11 +2,11 @@
 
 ##### 数据/后端即服务（又名BAAS）：
 
-* [Back&](https://www.backand.com/) [free to $]
+* [Back&](https://www.backand.com/) [免费 $]
 * [Backendless](https://backendless.com)
-* [Firebase](https://www.firebase.com/index.html) [free to $]
-* [Pusher](https://pusher.com/) [free to $]
-* [restdb.io](https://restdb.io/) [free to $]
+* [Firebase](https://www.firebase.com/index.html) [免费 $]
+* [Pusher](https://pusher.com/) [免费 $]
+* [restdb.io](https://restdb.io/) [免费 $]
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 
 ##### 数据/后端
