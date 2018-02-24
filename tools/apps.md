@@ -1,6 +1,6 @@
-# App Frameworks (Desktop, Mobile, Tablet, etc.) Tools
+# 应用程序框架（桌面，手机，平板电脑等）工具
 
-##### Front-End App Frameworks: [^1]
+##### 前端应用程序框架： [^1]
 
 * [AngularJS](https://github.com/angular/angular.js) (i.e Angular 1.x.x) + [Batarang](https://github.com/angular/angularjs-batarang)
 * [Angular](https://github.com/angular/angular) (i.e. Angular 2.0.0 +) + [angular-cli](https://github.com/angular/angular-cli) 
@@ -11,16 +11,16 @@
 * [Vue.js](http://vuejs.org/) + [vue-cli](https://github.com/vuejs/vue-cli) & [Vue.js devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 * [Riot](http://riotjs.com/)
 
-##### Native Hybrid Mobile WebView (i.e., Browser Engine Driven) Frameworks:
+##### 原生混合移动 WebView（即，浏览器引擎驱动）框架：
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
+这些解决方案通常使用[Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/),或自定义的 WebView 作为原生 API 的桥梁。
 
 * [ionic](http://ionicframework.com/)
 * [onsen.io](http://onsen.io/)
 
-##### Native Hybrid Mobile Development Webview (i.e., Browser Engine Driven) Environments/Platforms/Tools:
+##### 原生混合移动开发 Webview （即浏览器引擎驱动）环境/平台/工具：
 
-These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/), or a custom WebView as a bridge to native APIs.
+这些解决方案通常使用[Cordova](https://cordova.apache.org/), [crosswalk](https://crosswalk-project.org/),或自定义的 WebView 作为原生 API 的桥梁。
 
 * [Adobe PhoneGap](http://phonegap.com/) [$]
 * [cocoon.io](https://cocoon.io) [free to $]
@@ -28,14 +28,14 @@ These solutions typically use [Cordova](https://cordova.apache.org/), [crosswalk
 * [kony](http://www.kony.com/products/mobility-platform) [$]
 * [Monaca](https://monaca.io/) [$]
 
-##### Native Desktop WebView (i.e., Browser Engine Driven) App Frameworks:
+##### 原生桌面WebView（即，浏览器引擎驱动）应用程序框架：
 
 * [Electron](http://electron.atom.io/)
 * [NW.js](https://github.com/nwjs/nw.js)
 
-##### Native Mobile App Frameworks (Aka JavaScript Native Apps)
+##### 原生移动应用程序框架（又名 JavaScript原生应用）
 
-These solutions use a JS engine at runtime to interpret JS and bridge that to native APIs. No browser engine or WebView is used. The UI is constructed from native UI components.
+这些解决方案在运行时使用JS引擎来解释JS，并将其与原生API相桥接。 没有使用浏览器引擎或 WebView。 UI由原生UI组件构建而成。
 
 * [Flutter](https://flutter.io/)
 * [NativeScript](https://www.nativescript.org/)
@@ -44,28 +44,27 @@ These solutions use a JS engine at runtime to interpret JS and bridge that to na
 * [trigger.io](https://trigger.io/how-it-works/) [$]
 * [weex](https://weex.apache.org/)
 
-##### References & demo apps:
+##### 参考和演示应用程序:
 
 * [todomvc.com](http://todomvc.com/)
 * [RealWorld example apps](https://github.com/gothinkster/realworld) [code]
 * [Frontend Guidelines Questionnaire](https://github.com/bradfrost/frontend-guidelines-questionnaire)
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
-##### Performance:
+##### 性能:
 
 * [js-framework-benchmark](https://github.com/krausest/js-framework-benchmark)
 * [Front-End Performance Checklist 2018](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
 
 ***
 
-###### ADVICE:
+###### 建议:
 
-[^1] If you are new to front-end/JavaScript application development I'd start with [Vue.js](http://vuejs.org/). Then I'd work my way to [React](http://facebook.github.io/react/). Then I'd look at [Angular 2+](https://angular.io/), [Ember](http://emberjs.com/), or [Aurelia](http://aurelia.io/). 
+[^1] 如果您对前端/ JavaScript应用程序开发不熟悉，我会从 [Vue.js](http://vuejs.org/) 开始。 然后我会一步步转移到 [React](http://facebook.github.io/react/) 。 然后我会看[Angular 2+](https://angular.io/)、[Ember](http://emberjs.com/)、或者 [Aurelia](http://aurelia.io/)。
 
-If you are building a simple website that has minimal interactions with data (i.e. mostly a static content web site), you should avoid a front-end framework. A lot of work can be done with a task runner like [Gulp and jQuery](https://github.com/vigetlabs/blendid), while avoiding the unnecessary complexity of learning and using an app framework tool.
+如果您正在构建只有少量数据交互的简单网站（即大多数情况下是静态内容网站），则应避免使用前端框架。 像 [Gulp 和 jQuery](https://github.com/vigetlabs/blendid) 这样的工具可以完成很多工作，同时避免了学习和使用应用程序框架工具所带来的不必要的复杂性。
 
-Want something smaller than React, consider [Preact](https://preactjs.com/). Preact is an attempt to recreate the core value proposition of React (or similar libraries like Mithril) using as little code as possible, with first-class support for ES2015. Currently the library is around 3kb (minified & gzipped).
-
+想要比React更小的框架，请考虑 [Preact](https://preactjs.com/)。 Preact试图用尽可能少的代码重新创建React（或与Mithril类似的库）的核心提案，并为ES2015提供一流的支持。 目前该库大约3kb（缩小和压缩之后）。
 
 
 

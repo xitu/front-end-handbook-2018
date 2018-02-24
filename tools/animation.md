@@ -1,6 +1,6 @@
-# Animation Tools
+# 动画工具
 
-##### CSS and JavaScript Utilities:
+##### CSS和JavaScript实用程序：
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
@@ -16,11 +16,11 @@
 * [Popmotion](https://popmotion.io)
 * [Velocity.js](http://julian.com/research/velocity/)
 
-##### Polyfills/Shims:
+##### 填充/垫片:
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
-##### Animation References:
+##### 动画参考:
 
 * [canianimate.com](http://canianimate.com/)
 
