@@ -1,4 +1,4 @@
-# Offline Tools
+# 离线工具
 
 * [Hoodie](http://hood.ie/)
 * [Offline.js](http://github.hubspot.com/offline/docs/welcome/)
@@ -7,9 +7,9 @@
 
 ***
 
-###### NOTES:
+###### 注意:
 
-For more tools look [here](https://github.com/pazguille/offline-first#tools).
+更多工具请看[这里](https://github.com/pazguille/offline-first#tools).
 
 
 

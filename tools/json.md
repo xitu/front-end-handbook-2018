@@ -1,27 +1,27 @@
-# JSON Tools
+# JSON 工具
 
-##### Online Editors:
+##### 在线编辑器：
 
 * [JSONmate](http://jsonmate.com/)
 * [json.browse()](https://jamstack.org/)
 
-##### Formatter & Validator:
+##### 格式化工具和验证器：
 
 * [jsonformatter.org](http://jsonformatter.org/)
-* [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
+* [JSON 格式化工具和验证器](https://jsonformatter.curiousconcept.com/)
 
-##### Query Tools:
+##### 查询工具：
 
 * [DefiantJS](http://www.defiantjs.com/)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
 * [ObjectPath](http://objectpath.org/) 
 
-##### Generating Mock JSON Tools:
+##### 生成模拟JSON数据的工具：
 
 * [JSON Generator](http://www.json-generator.com/)
-* [Mockaroo](https://www.mockaroo.com/) [free to $]
+* [Mockaroo](https://www.mockaroo.com/) [免费 $]
 
-##### Online JSON Mocking API Tools:
+##### 在线JSON模拟API工具：
 
 * [FillText.com](http://www.filltext.com/)
 * [Jam API](https://github.com/dinubs/jam-api)
@@ -31,17 +31,17 @@
 * [mockable.io](https://www.mockable.io/)
 * [mockapi.io](http://www.mockapi.io/)
 * [Mocky](http://www.mocky.io/)
-* [RANDOM USER GENERATOR](https://randomuser.me/)
+* [随机用户生成器](https://randomuser.me/)
 
-##### List of public JSON API's:
+##### 公共JSON API列表：
 
-* [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
+* [用于Web开发的JSON API的集合列表](https://github.com/toddmotto/public-apis)
 
-##### Local JSON Mocking API Tools:
+##### 本地JSON模拟API工具：
 
 * [json-server](https://github.com/typicode/json-server)
 
-##### JSON Specifications/Schemas:
+##### JSON规格/模式：
 
 * [json-schema.org](http://json-schema.org/) & [jsonschema.net](http://jsonschema.net/)
 * [{json:api}](http://jsonapi.org/)

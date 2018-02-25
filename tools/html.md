@@ -1,58 +1,58 @@
-# HTML Tools
+# HTML 工具
 
-##### HTML Templates/Boilerplates/Starter Kits:
+##### HTML模板/ 样板 /入门套件：
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
-* [HTML5 Boilerplate](https://html5boilerplate.com/)
-* [HTML5 Bones](http://html5bones.com/)
-* [Mobile boilerplate](https://html5boilerplate.com/mobile/)
+* [HTML5 样板](https://html5boilerplate.com/)
+* [HTML5 骨架](http://html5bones.com/)
+* [移动样板](https://html5boilerplate.com/mobile/)
 
-##### HTML Polyfill:
+##### HTML 填充工具:
 
 * [html5shiv](https://github.com/aFarkas/html5shiv)
 
-##### Transpiling:
+##### 转译：
 
 * [Pug](https://pugjs.org/api/getting-started.html)
 * [Markdown](http://daringfireball.net/projects/markdown/)
 
-##### References:
+##### 参考：
 
-* [Element attributes](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
-* [Elements](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
-* [HTML Arrows](http://htmlarrows.com/)
-* [HTML Entity Lookup](http://entity-lookup.leftlogic.com/)
+* [元素属性](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
+* [元素](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
+* [HTML 箭头](http://htmlarrows.com/)
+* [HTML实体速查](http://entity-lookup.leftlogic.com/)
 * [htmlreference.io](http://htmlreference.io/)
-* [HEAD - A free guide to <head> elements](https://gethead.info/)
+* [HEAD -  \<head> 元素免费指导](https://gethead.info/)
 
-##### Linting/Hinting:
+##### 语言分析/提示：
 
 * [HTMLHint](http://htmlhint.com/)
 * [html-inspector](https://github.com/philipwalton/html-inspector)
 
-##### Optimizer:
+##### 优化：
 
-* [HTML Minifier](http://kangax.github.io/html-minifier/)
+* [HTML 压缩工具](http://kangax.github.io/html-minifier/)
 
-##### Online Creation/Generation/Experimentation Tools:
+##### 在线创建/生成/实验工具：
 
 * [tablesgenerator.com](http://www.tablesgenerator.com/)
 
-##### Authoring Conventions:
+##### 创作公约：
 
-* [HTML Code Guide](http://codeguide.co/#html)
-* [Principles of Writing Consistent, Idiomatic HTML](https://github.com/necolas/idiomatic-html)
+* [HTML 编码指引](http://codeguide.co/#html)
+* [编写一致的、符合语言习惯的HTML的原则](https://github.com/necolas/idiomatic-html)
 
-##### Workflow:
+##### 工作流
 
 * [Emmet](http://emmet.io/)
 
-##### HTML Outliner:
+##### HTML大纲：
 
-* [HTML 5 Outliner](https://gsnedders.html5.org/outliner/)
+* [HTML 5 大纲](https://gsnedders.html5.org/outliner/)
 
-##### Trending HTML Repositories on GitHub This Month:
+##### GitHub上HTML仓库的本月趋势：
 
 [https://github.com/trending?l=html&since=monthly](https://github.com/trending?l=html&since=monthly)
 
