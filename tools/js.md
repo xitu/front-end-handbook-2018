@@ -23,7 +23,7 @@
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
-##### 转译 / 类型检查 (ES* to ES*):
+##### 转译/类型检查 (ES* to ES*):
 
 * [Babel](https://babeljs.io/)
 * [TypeScript](https://www.typescriptlang.org/)
@@ -50,7 +50,7 @@
 * [expect.js](https://github.com/Automattic/expect.js)
 * [should.js](http://shouldjs.github.io/)
 
-##### 单元测试的Spies、Stubs和Mocks：
+##### 单元测试的Spies、Stubs 和 Mocks：
 
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
@@ -102,11 +102,11 @@
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
 * [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
-##### GitHub上JS仓库的本月趋势：
+##### GitHub 上 JS 仓库的本月趋势：
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
-##### 在NPM上大多数依赖的软件包：
+##### 在 NPM 上大多数依赖的软件包：
 
 [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
 

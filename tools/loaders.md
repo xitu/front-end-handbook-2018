@@ -12,13 +12,13 @@
 
 ###### 注意:
 
-一般来说，我应该在什么时候使用Parcel、Webpack或Rollup？
+一般来说，我应该在什么时候使用 Parcel、Webpack 或 Rollup？
 
-Parcel — 中小型项目（小于1.5万行代码）
+Parcel —— 中小型项目（小于1.5万行代码）
 
-Webpack — 大型到企业级规模的项目。
+Webpack —— 大型到企业级规模的项目。
 
-Rollup — 针对NPM包。
+Rollup —— 针对NPM包。
 
 
 

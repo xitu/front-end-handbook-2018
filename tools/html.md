@@ -1,6 +1,6 @@
 # HTML 工具
 
-##### HTML模板/ 样板 /入门套件：
+##### HTML 模板/样板/入门套件：
 
 * [dCodes](http://www.dcodes.net/2/docs/index.html)
 * [Email-Boilerplate](https://github.com/seanpowell/Email-Boilerplate)
@@ -22,7 +22,7 @@
 * [元素属性](https://html.spec.whatwg.org/multipage/indices.html#attributes-3)
 * [元素](https://html.spec.whatwg.org/multipage/indices.html#elements-3)
 * [HTML 箭头](http://htmlarrows.com/)
-* [HTML实体速查](http://entity-lookup.leftlogic.com/)
+* [HTML 实体速查](http://entity-lookup.leftlogic.com/)
 * [htmlreference.io](http://htmlreference.io/)
 * [HEAD -  \<head> 元素免费指导](https://gethead.info/)
 
