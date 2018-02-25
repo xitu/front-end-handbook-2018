@@ -1,6 +1,6 @@
-# Graphics (e.g., SVG, canvas, webgl) Tools
+# 图形（例如SVG、canvas、webgl）工具
 
-##### General:
+##### 通用:
 
 * [Fabric.js](http://fabricjs.com/)
 * [Two.js](http://jonobr1.github.io/two.js/#introduction)
