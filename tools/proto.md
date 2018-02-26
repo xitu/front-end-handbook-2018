@@ -1,19 +1,19 @@
-# Prototyping & Wireframing Tools
+# 原型和线框图工具
 
-##### Creating:
+##### 创建：
 
 * [Axure](http://www.axure.com/) [$]
 * [Balsamiq Mockups](https://balsamiq.com) [$]
 * [Justinmind](http://www.justinmind.com/) [$]
 * [Moqups](https://moqups.com/) [$]
 * [proto.io](https://proto.io/) [$]
-* [UXPin](http://www.uxpin.com/) [free to $]
+* [UXPin](http://www.uxpin.com/) [免费 $]
 
 
-##### Collaboration / Presenting:
+##### 协作/展示：
 
-* [InVision](http://www.invisionapp.com/) [free to $]
-* [Conceptboard](https://conceptboard.com/) [free to $]
+* [InVision](http://www.invisionapp.com/) [免费 $]
+* [Conceptboard](https://conceptboard.com/) [免费 $]
 * [myBalsamiq](https://balsamiq.cloud/) [$]
 
 
