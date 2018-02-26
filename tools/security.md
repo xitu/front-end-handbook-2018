@@ -5,7 +5,7 @@
 * [DOMPurify](https://github.com/cure53/DOMPurify)
 * [XSS](http://jsxss.com/en/index.html)
 
-##### 安全检查员/评估员/测试员：
+##### 安全检查器/评测器/测试器：
 
 * [Netsparker](https://www.netsparker.com)
 * [Websecurify](http://www.websecurify.com/)

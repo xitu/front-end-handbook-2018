@@ -5,7 +5,7 @@
 * [Satyr](http://satyr.io)
 * [Placeimg](http://placeimg.com)
 * [Lorem Pixel](http://lorempixel.com)
-* [CSS-Tricks Image Resources](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
+* [CSS-Tricks 图像资源s](https://css-tricks.com/sites-with-high-quality-photos-you-can-use-for-free/)
 * [LibreStock](http://librestock.com)
 * [Unsplash](https://unsplash.it)
 * [Place Beyoncé](http://placebeyonce.com)

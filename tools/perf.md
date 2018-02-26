@@ -5,7 +5,7 @@
 * [bundlephobia.com](https://bundlephobia.com/)
 * [GTmetrix](https://gtmetrix.com/)
 * [sitespeed.io](https://www.sitespeed.io)
-* [Speed Curve](https://speedcurve.com/) [$]
+* [速度曲线](https://speedcurve.com/) [$]
 * [网页测试](http://www.webpagetest.org/)
 * [Sonarwhal](https://sonarwhal.com)
 * [Datadog](https://www.datadoghq.com) [$]
