@@ -1,19 +1,19 @@
-# Hosting Tools
+# 主机工具
 
-##### General
+##### 通用
 
 * [AWS](https://aws.amazon.com/websites/) [$]
 * [DigitalOcean](https://digitalocean.com) [$]
 * [WebFaction](https://www.webfaction.com/) [$]
 
-##### Static
+##### 静态
 
 * [Firebase Hosting](https://firebase.google.com/docs/hosting/)
-* [netlify](https://www.netlify.com) [free to $]
+* [netlify](https://www.netlify.com) [免费 $]
   * [Bitballoon](https://www.bitballoon.com/)
-* [Surge](https://surge.sh/) [free to $]
+* [Surge](https://surge.sh/) [免费 $]
 * [Forge](https://getforge.com/) [$]
 
-##### Local Hosting Tools:
+##### 本地主机工具：
 
 [Localname](https://localname.io)

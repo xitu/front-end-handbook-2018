@@ -1,6 +1,6 @@
-# JavaScript Tools
+# JavaScript 工具
 
-##### JS Utilities:
+##### JS 实用程序:
 
 * [accounting.js](http://openexchangerates.github.io/accounting.js/)
 * [async](http://caolan.github.io/async/)
@@ -23,90 +23,90 @@
 * [wait](https://github.com/elving/wait)
 * [xregexp.com](http://xregexp.com/)
 
-##### Transpiling / Type Checking (ES* to ES*):
+##### 转译/类型检查 (ES* to ES*):
 
 * [Babel](https://babeljs.io/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Flow](https://flowtype.org/)
 
-##### Code-analysis Engine:
+##### 代码分析引擎：
 
 * [Tern](https://ternjs.net/)
 
-##### Linting/Hinting & Style Linter:
+##### 语言分析/提示和样式检查：
 
 * [eslint](http://eslint.org/)
 
-##### Unit Testing:
+##### 单元测试：
 
 * [AVA](https://github.com/avajs/ava)
 * [Jasmine](http://jasmine.github.io/)
 * [Mocha](http://mochajs.org/)
 * [Tape](https://github.com/substack/tape)
 
-##### Testing Assertions for Unit Testing:
+##### 单元测试的测试断言：
 
 * [Chai](http://chaijs.com/)
 * [expect.js](https://github.com/Automattic/expect.js)
 * [should.js](http://shouldjs.github.io/)
 
-##### Test Spies, Stubs, and Mocks for Unit Testing:
+##### 单元测试的Spies、Stubs 和 Mocks：
 
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-##### Code Formater/Beautifier:
+##### 代码格式化/美化
 
 * [esformatter](https://github.com/millermedeiros/esformatter#esformatterformatstr-optsstring)
 * [js-beautify](http://jsbeautifier.org/)
 * [jsfmt](http://rdio.github.io/jsfmt/)
 * [prettier](https://github.com/jlongster/prettier)
 
-##### Performance Testing:
+##### 性能测试：
 
 * [benchmark.js](http://benchmarkjs.com/)
 * [jsperf.com](https://jsperf.com/)
 
-##### Visualization, Static Analysis, Complexity, Coverage Tools:
+##### 可视化、静态分析、复杂性、覆盖范围工具：
 
 * [Coveralls](https://coveralls.io/) [$]
 * [Esprima](http://esprima.org/)
 * [istanbul](https://github.com/gotwarlost/istanbul)
 
-##### Optimizer:
+##### 优化：
 
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [UglifyJS 2](https://github.com/mishoo/UglifyJS2)
 * [optimize-js](https://github.com/nolanlawson/optimize-js)
 * [Prepack](https://prepack.io/)
 
-##### Obfuscate:
+##### 模糊处理：
 
 * [Javascript Obfuscator](http://www.javascriptobfuscator.com/) [free to $]
 * [JScrambler](https://jscrambler.com/) [$]
 
-##### Sharable/Runnable Code Editors:
+##### 可共享/可运行的代码编辑：
 
 * [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 
-##### Online Regular Expression Editors/Visual Tools:
+##### 在线正则表达式编辑器/可视化工具：
 
 * [debuggex](https://www.debuggex.com)
 * [regex101](https://regex101.com/)
 * [regexper](http://regexper.com/)
 * [RegExr](http://regexr.com/)
 
-##### Authoring Convention Tools:
+##### 创作约定工具：
 
 * [Airbnb's ESLint config, following our styleguide](https://www.npmjs.com/package/eslint-config-airbnb)
 * [Standard - ESLint Shareable Config](https://github.com/feross/eslint-config-standard)
 
-##### Trending JS Repositories on GitHub This Month:
+##### GitHub 上 JS 仓库的本月趋势：
 
 [https://github.com/trending?l=javascript&since=monthly](https://github.com/trending?l=javascript&since=monthly)
 
-##### Most Depended upon Packages on NPM:
+##### 在 NPM 上大多数依赖的软件包：
 
 [https://www.npmjs.com/browse/depended](https://www.npmjs.com/browse/depended)
 
