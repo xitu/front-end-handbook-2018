@@ -56,7 +56,7 @@
         * [学习离线开发](learning/offline.md)
         * [学习 Web/浏览器/应用程序安全](learning/security.md)
         * [了解多设备开发（例如RWD）](learning/multi-device-dev.md)
-    * [有针对性的学习](learning/direct-learning.md)
+    * [定向学习](learning/direct-learning.md)
     	* [前端学校、课程和训练营](learning/courses.md)
     * [前端开发人员学习](learning/learn-from.md)
     * [通讯、新闻和播客](learning/news-podcasts.md)
