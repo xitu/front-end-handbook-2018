@@ -1,6 +1,6 @@
-# Static Site Generators Tools
+# 静态站点生成工具
 
-##### Site Generator Listings: [^1]
+##### 静态站点生成工具清单： [^1]
 
 * [staticgen.com](https://www.staticgen.com/)
 * [staticsitegenerators.net](https://staticsitegenerators.net/)
@@ -8,9 +8,9 @@
 
 ***
 
-###### ADVICE:
+###### 建议：
 
-[^1] Before using a static site generator framework consider using [Gulp](http://gulpjs.com/) or [npm scripts](https://scotch.io/tutorials/using-npm-as-a-build-tool) to orchestrate a custom solution or use a tool that makes use of Gulp for static site generation. e.g. [Blendid](https://github.com/vigetlabs/blendid)
+[^1] 在使用静态站点生成工具之前，可以考虑使用 [Gulp](http://gulpjs.com/) 或者 [npm scripts](https://scotch.io/tutorials/using-npm-as-a-build-tool) 来搭建自定义解决方案或使用一个基于 Gulp 的静态站点生成工具，比如：[Blendid](https://github.com/vigetlabs/blendid)。
 
 
 

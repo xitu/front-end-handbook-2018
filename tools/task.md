@@ -1,18 +1,18 @@
-# Tasking (aka Build) Tools 
+# 任务分配（亦称构建）工具
 
-##### Tasking/Build Tools: [^1]
+##### 任务分配/构建工具：[^1]
 
 * [Gulp](http://gulpjs.com/)
 
-##### Opinionated Tasking/Build pipeline tools:
+##### 智能的任务分配/构建流水线工具：
 
 * [Brunch](http://brunch.io/)
 
 ***
 
-###### ADVICE:
+###### 建议：
 
-[^1] Before reaching for Gulp make sure [npm scripts](https://docs.npmjs.com/misc/scripts) or [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) won't fit the bill. Read, ["Why I Left Gulp and Grunt for npm Scripts"](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
+[^1] 在使用 Gulp 之前，请先确认 [npm scripts](https://docs.npmjs.com/misc/scripts) 或者 [yarn script](https://yarnpkg.com/en/docs/package-json#toc-scripts) 是否能够满足你的需求。参阅[“我为什么放弃了 Gulp 和 Grunt 并选择了 npm Scripts”](https://medium.freecodecamp.com/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.nw3huib54).
 
 
 
