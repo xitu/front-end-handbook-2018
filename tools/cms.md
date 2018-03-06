@@ -1,12 +1,12 @@
 # 内容管理托管/API 工具
 
-##### 无头CMS工具Headless CMS Tools:
+##### 无头CMS工具：
 
 * [Contentful](https://www.contentful.com/) [$]
-* [prismic.io](https://prismic.io/) [free to $]
+* [prismic.io](https://prismic.io/) [免费 $]
 * [Headless](https://www.headless.rest/)
 
-##### 自主的无头CMS工具:
+##### 自托管的无头CMS工具:
 
 * [Cockpit](https://getcockpit.com/)
 

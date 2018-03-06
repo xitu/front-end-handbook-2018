@@ -25,13 +25,13 @@
 * [Shoelace](https://shoelace.style/)
 * [Spectre.css](https://picturepan2.github.io/spectre/)
 
-##### 仅限移动设备的CSS框架:
+##### 仅限移动设备的 CSS 框架:
 
 * [Ratchet](http://goratchet.com/)
 
-##### CSS重置:
+##### CSS 重置:
 
-> A CSS Reset (or “Reset CSS”) is a short, often compressed (minified) set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
+> CSS 重置（或“重置 CSS”）是一种简短的，经常被压缩（缩小）的 CSS 规则集，可将所有 HTML 元素的样式重置为一致的基准。
 
 ><cite>&#8212; [cssreset.com](http://cssreset.com/what-is-a-css-reset/)</cite>
 
@@ -88,7 +88,7 @@
 * [patternizer.com](http://patternizer.com/)
 * [Ultimate CSS Gradient Generator](http://www.colorzilla.com/gradient-editor/)
 
-##### 架构CSS：
+##### 架构 CSS：
 
 * [Atomic Design](http://atomicdesign.bradfrost.com/) [阅读]
 * [BEM](http://getbem.com/introduction/)
@@ -116,7 +116,7 @@
 * [styleguide-generators](https://github.com/davidhund/styleguide-generators)
 * [Catalog](https://docs.catalog.style/)
 
-##### 在GitHub上的CSS仓库的本月趋势：
+##### 在 GitHub 上的 CSS 仓库的本月趋势：
 
 [https://github.com/trending?l=css&since=monthly](https://github.com/trending?l=css&since=monthly)
 
