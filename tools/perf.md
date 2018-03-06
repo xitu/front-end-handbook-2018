@@ -22,12 +22,12 @@
 ##### 参考/文档：
 
 * [Jank Free](http://jankfree.org/)
-* [ES6和ES5的功能特性对比](https://kpdecker.github.io/six-speed/)
+* [ES6 和ES5 的功能特性对比](https://kpdecker.github.io/six-speed/)
 
 ##### 清单：
 
 * [前端清单](https://frontendchecklist.io/)
-* [2018年前端性能清单](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
+* [2018 年前端性能清单](https://www.dropbox.com/s/8h9lo8ee65oo9y1/front-end-performance-checklist-2018.pdf?dl=0)
 
 
 
