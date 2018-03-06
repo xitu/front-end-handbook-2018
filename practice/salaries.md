@@ -16,7 +16,7 @@
 
 ###### 注意:
 
-一位主管/高级前端开发人员/工程师可以居住在他们想要的任何地方（即远程工作），并且每年可赚取超过15万美元（参见 [angel.co](https://angel.co/jobs), 注册并查看超过 $150k 的前端工作或查阅[Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)的工资范围）。
+一位主管/高级前端开发人员/工程师可以居住在他们想要的任何地方（即远程工作），并且每年可赚取超过 15 万美元（参见 [angel.co](https://angel.co/jobs), 注册并查看超过 $150k 的前端工作或查阅[Stack Overflow Jobs](https://stackoverflow.com/jobs?q=front-end&sort=y)的工资范围）。
 
 
 
