@@ -1,84 +1,84 @@
-# Learn JavaScript
+# 了解 JavaScript
 
-> JavaScript is a high level, dynamic, untyped, and interpreted programming language. It has been standardized in the ECMAScript language specification. Alongside HTML and CSS, it is one of the three essential technologies of World Wide Web content production; the majority of websites employ it and it is supported by all modern web browsers without plug-ins. JavaScript is prototype-based with first-class functions, making it a multi-paradigm language, supporting object-oriented, imperative, and functional programming styles. It has an API for working with text, arrays, dates and regular expressions, but does not include any I/O, such as networking, storage or graphics facilities, relying for these upon the host environment in which it is embedded.
+> JavaScript，一种高级编程语言，通过解释执行，是一门动态类型，面向对象（基于原型）的解释型语言[4]。它已经由ECMA（欧洲电脑制造商协会）通过ECMAScript实现语言的标准化[4]。它被世界上的绝大多数网站所使用，也被世界主流浏览器（Chrome、IE、Firefox、Safari、Opera）支持。JavaScript是一门基于原型、函数先行的语言[5]，是一门多范式的语言，它支持面向对象编程，命令式编程，以及函数式编程。它提供语法来操控文本、数组、日期以及正则表达式等，不支持I/O，比如网络、存储和图形等，但这些都可以由它的宿主环境提供支持。
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
-##### Getting Started:
+##### 快速开始:
 
-* [Ten Things A Serious JavaScript Developer Should Learn](https://benmccormick.org/2017/07/19/ten-things-javascript/)
+* [JavaScript 开发人员应该学习的十件事](https://benmccormick.org/2017/07/19/ten-things-javascript/)
 * [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
 * [MDN: JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript) [read]
 * [javascript.info](http://javascript.info/)
-* [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
-* [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
+* [JavaScript 启示](http://www.javascriptenlightenment.com/) [read]
+* [动人的 JavaScript](http://eloquentjavascript.net/) [read]
 
-##### General Learning:
+##### 综合学习:
 
 * [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
-* [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
-* [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
-* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
-* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
-* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
-* [Modern JavaScript Cheatsheet - Cheatsheet for the JavaScript knowledge you will frequently encounter in modern projects.](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
+* [你不知道的 JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
+* [你不知道的 JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
+* [你不知道的 JSS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
+* [解释 JavaScript 中的 'this' 关键字](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
+* [你不知道的 JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
+* [现代 JavaScript 备忘录 - 现代项目经常会用到的 JavaScript 知识备忘录](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
 
-##### Mastering:
+##### 掌握:
 
-* [Setting up ES6](https://leanpub.com/setting-up-es6) [read]
-* [ES6 FOR EVERYONE!](https://es6.io/) [watch][$]
-* [Exploring ES6](http://exploringjs.com/es6.html) [read]
-* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
-* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read][$]
-* [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
-* [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
-* [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
-* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
-* [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
-* [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
-* [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
-* [JS MythBusters](https://mythbusters.js.org/index.html) [read]
-* [Robust JavaScript](https://molily.de/robust-javascript/)
+* [设置 ES6](https://leanpub.com/setting-up-es6) [read]
+* [每个人都应该学习的 ES6 ](https://es6.io/) [watch][$]
+* [探索 ES6](http://exploringjs.com/es6.html) [read]
+* [你不知道的 JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
+* [了解 ECMAScript 6: JavaScript 开发权威指南](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read][$]
+* [ES6: 正确的部分](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
+* [探索 ES2016 和 ES2017](http://exploringjs.com/es2016-es2017.html) [read]
+* [JavaScript Regular 正则表达式的启示](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
+* [使用 Regular 正则表达式](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
+* [你不知道的 JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
+* [JavaScript 中的 Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
+* [测试驱动的 JavaScript 开发](http://www.amazon.com/dp/0321683919/) [read][$]
+* [JS 终结者](https://mythbusters.js.org/index.html) [read]
+* [强大的 JavaScript](https://molily.de/robust-javascript/)
 
-##### Functional JavaScript:
+##### 函数式编写 JavaScript:
 
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
-* [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [watch]
-* [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
-* [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
-* [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
-* [Professor Frisby Introduces Composable Functional JavaScript](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) [watch]
+* [函数式编程术语](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
+* [JavaScript 中的函数式编程](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [watch]
+* [轻量级 JS 函数式编程](https://github.com/getify/Functional-Light-JS) [read]
+* [JavaScript 中的函数式编程：如何使用函数技术改进JavaScript程序](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
+* [在 JavaScript 中对 FP 的适当指导](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
+* [Frisby 教授介绍函数式 JavaScript 的 Composable](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) [watch]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
-* [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
-* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
+* [JavaScript中的硬核函数编程](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
+* [JavaScript 轻量级函数式编程](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
 
-##### References/Docs:
+##### 参考/文档:
 
-* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [MSDN JavaScrip Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
+* [MDN JavaScript 参考](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+* [MSDN JavaScrip 参考](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
-##### Glossary/Encyclopedia/Jargon:
+##### 术语表/百科全书/行业术语:
 
-* [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
-* [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
+* [JavaScript 百科](http://www.crockford.com/javascript/encyclopedia/)
+* [JavaScript 词汇表](https://www.codecademy.com/articles/glossary-javascript)
+* [简化 JavaScript 术语](http://jargon.js.org/)
 
-##### Standards/Specifications:
+##### 标准/规范:
 
-* [How to Read the ECMAScript Specification](https://timothygu.me/es-howto/)
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/index.html)
-* [ECMAScript® 2017 Language Specification](http://www.ecma-international.org/ecma-262/8.0/index.html)
-* [ECMAScript® 2018 Language Specification](https://tc39.github.io/ecma262/)
-* [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
+* [如何阅读 ECMAScript 规范](https://timothygu.me/es-howto/)
+* [2015 ECMAScript® 语言 规范](http://www.ecma-international.org/ecma-262/6.0/index.html)
+* [2016 ECMAScript® 语言 规范](https://www.ecma-international.org/ecma-262/7.0/index.html)
+* [2017 ECMAScript® 语言规范](http://www.ecma-international.org/ecma-262/8.0/index.html)
+* [2018 ECMAScript® 语言规范](https://tc39.github.io/ecma262/)
+* [ECMA262 的状态、过程、文档](https://github.com/tc39/ecma262)
 
-##### Style:
+##### 编程风格:
 
 * [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
 * [JavaScript Standard Style](http://standardjs.com/rules.html)
 * [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard)
 
-##### JavaScript Newsletters, News, &amp; Podcasts:
+##### JavaScript 简报, 新闻媒体和播客::
 
 * [Echo JS](http://www.echojs.com/)
 * [ECMAScript Daily](https://ecmascript-daily.github.io/)
@@ -90,7 +90,7 @@
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
 
-##### Deprecated JS Learning Resources:
+##### 过时的JS学习资源:
 
 * [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
 * [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
@@ -110,7 +110,6 @@
 
 * [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
 * [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)
-
 
 
 
