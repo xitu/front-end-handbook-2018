@@ -1,18 +1,16 @@
-# Learn Package Manager
+# 学习软件包管理器
 
-> A package manager or package management system is a collection of software tools that automates the process of installing, upgrading, configuring, and removing software packages for a computer's operating system in a consistent manner. It typically maintains a database of software dependencies and version information to prevent software mismatches and missing prerequisites.
+> 软件包管理器或者是软件包管理系统是为计算机操作系统自动安装、升级、配置和卸载软件包的软件工具组合。它通常维护一个软件依赖关系和版本信息的数据库，用来防止软件不匹配和缺少依赖。
 
-><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Package_manager)</cite>
+><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Package_manager)</cite>
 
-##### General Learning:
+#### 一般学习：
 
-* [An introduction to how JavaScript package managers work](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3)
-* [The Mystical & Magical SemVer Ranges Used By npm & Bower](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [read]
-* [Package Managers: An Introductory Guide For The Uninitiated Front-End Developer](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) [read]
-* [npm docs](https://docs.npmjs.com/)
-* [yarn docs](https://yarnpkg.com/en/docs/)
-
-
+* [介绍 JavaScript 包管理器是如何运行的](https://medium.freecodecamp.com/javascript-package-managers-101-9afd926add0a#.hu6knvct3)
+* [The Mystical & Magical SemVer Ranges Used By npm & Bower](http://developer.telerik.com/featured/mystical-magical-semver-ranges-used-npm-bower/) [文章]
+* [软件包管理器：对于初级前端开发者的入门指南](http://codylindley.com/techpro/2013_04_12__package-managers-an-introducto/) [文章]
+* [npm 文档](https://docs.npmjs.com/)
+* [yarn 文档](https://yarnpkg.com/en/docs/)
 
 
 
