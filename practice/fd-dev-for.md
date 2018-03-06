@@ -19,7 +19,7 @@
 * 电视
 * 手表
 * [其他设备](https://en.wikipedia.org/wiki/Internet_of_things) (例如, 任何你能想象的物品，车，冰箱，灯，恒温器，等等)
-
+
 ![](../images/growth-iot.jpg "https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/")
 
 <cite>图片来源：<a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
