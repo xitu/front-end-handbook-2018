@@ -1,6 +1,6 @@
 # 动画工具
 
-##### CSS和JavaScript实用程序：
+##### CSS 和 JavaScript 实用程序：
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
@@ -16,7 +16,7 @@
 * [Popmotion](https://popmotion.io)
 * [Velocity.js](http://julian.com/research/velocity/)
 
-##### 填充/垫片:
+##### Polyfills/Shims:
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 

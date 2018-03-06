@@ -12,7 +12,7 @@
 * [浏览器支持破碎/丢失的图像](http://codepen.io/bartveneman/full/qzCte/)
 * [Browserscope](http://www.browserscope.org/)
 * [caniuse.com](http://caniuse.com/)
-* [Firefox平台状态 - Web平台功能的实施和标准化路线图](https://platform-status.mozilla.org/)
+* [Firefox 平台状态 —— Web 平台功能的实施和标准化路线图](https://platform-status.mozilla.org/)
 * [HTML5 Please](http://html5please.com/)
 * [HTML5 Test](https://html5test.com/)
 * [iwanttouse.com](http://www.iwanttouse.com/)
@@ -22,7 +22,7 @@
 
 ##### 浏览器开发/调试工具：
 
-* [Chrome 开发工具 （又名 DevTools）](https://developers.google.com/web/tools/?hl=en)
+* [Chrome 开发者工具（又名 DevTools）](https://developers.google.com/web/tools/?hl=en)
   * [Per-Panel 文档](https://developers.google.com/web/tools/chrome-devtools/#docs)
   * [命令行 API 参考](https://developers.google.com/web/tools/javascript/command-line/command-line-reference?hl=en)
   * [键盘和用户界面快捷键参考](https://developers.google.com/web/tools/iterate/inspect-styles/shortcuts)
@@ -82,7 +82,7 @@
 
 ##### 浏览器列表：
 
-在不同的前端工具之间共享目标浏览器，例如Autoprefixer、Stylelint和babel-preset-env。
+在不同的前端工具之间共享目标浏览器，例如 Autoprefixer、Stylelint 和 babel-preset-env。
 
 * [Browserslist](https://github.com/ai/browserslist)
   * [http://browserl.ist/](http://browserl.ist/?q=%3E+2%25)

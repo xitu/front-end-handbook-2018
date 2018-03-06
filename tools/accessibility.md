@@ -1,7 +1,7 @@
 # 辅助工具
 
 ## 指南
-* [A11Y风格指南](http://a11y-style-guide.com/style-guide/)
+* [A11Y 风格指南](http://a11y-style-guide.com/style-guide/)
 * [辅助功能指南清单](http://accessibility.voxmedia.com)
 * [交互式 WCAG 2.0](http://code.viget.com/interactive-wcag/)
 * [18F 辅助功能指南](https://pages.18f.gov/accessibility/checklist/)
@@ -40,8 +40,8 @@
 
 ## 论文
 * [ARIA 入门](http://a11yproject.com/posts/getting-started-aria/)
-* [重新构建Web的可访问性](http://alistapart.com/article/reframing-accessibility-for-the-web)
+* [重新构建 Web 的可访问性](http://alistapart.com/article/reframing-accessibility-for-the-web)
 * [可访问性问题的字母表](https://the-pastry-box-project.net/anne-gibson/2014-July-31)
-* [实用的ARIA示例](http://heydonworks.com/practical_aria_examples/)
+* [实用的 ARIA 示例](http://heydonworks.com/practical_aria_examples/)
 * [MDN 辅助指南](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
-* [在Chrome开发工具中启用辅助功能面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
+* [在 Chrome 开发工具中启用辅助功能面板](https://umaar.com/dev-tips/101-accessibility-inspection/)
