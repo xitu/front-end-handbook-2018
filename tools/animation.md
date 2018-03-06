@@ -1,6 +1,6 @@
-# Animation Tools
+# 动画工具
 
-##### CSS and JavaScript Utilities:
+##### CSS 和 JavaScript 实用程序：
 
 * [Animate Plus](https://github.com/bendc/animateplus)
 * [Animate](https://github.com/daneden/animate.css)
@@ -20,7 +20,7 @@
 
 * [web-animations-js](https://github.com/web-animations/web-animations-js)
 
-##### Animation References:
+##### 动画参考:
 
 * [canianimate.com](http://canianimate.com/)
 
