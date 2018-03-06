@@ -1,21 +1,21 @@
-# Content Management Hosted/API Tools 
+# 内容管理托管/API 工具
 
-##### Headless CMS Tools:
+##### 无头 CMS 工具：
 
 * [Contentful](https://www.contentful.com/) [$]
-* [prismic.io](https://prismic.io/) [free to $]
+* [prismic.io](https://prismic.io/) [免费 $]
 * [Headless](https://www.headless.rest/)
 
-##### Self-hosted Headless CMS Tools:
+##### 自托管的无头 CMS 工具:
 
 * [Cockpit](https://getcockpit.com/)
 
-##### Hosted CMS:
+##### 托管的 CMS:
 
 * [LightCMS](https://www.lightcms.com) [$]
 * [Surreal CMS](http://www.surrealcms.com/) [$]
 
-##### Static CMS Tools:
+##### 静态 CMS 工具:
 
 * [webhook.com](http://www.webhook.com/)
 * [Dato CMS](https://www.datocms.com/)
