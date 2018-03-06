@@ -34,7 +34,7 @@
 
 * [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
 
-**在 github 上贡献内容、提建议和修复bug**:
+**在 github 上贡献内容、提建议和修复 bug**:
 
 * [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 
