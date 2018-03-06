@@ -32,7 +32,7 @@
 * [前端课程](https://gist.github.com/stevekinney/03027e71aac341af14a2) [阅读]
 * [免费代码营地](http://freecodecamp.com/) [互动]
 * [那么，你想成为一个前端工程师](https://www.youtube.com/watch?v=Lsg84NtJbmI) [观看]
-* [前端Web开发职业的开始](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [观看][付费]
+* [前端 Web 开发职业的开始](http://www.pluralsight.com/courses/front-end-web-development-career-kickstart) [观看][付费]
 * [前端开发：开始](http://www.pluralsight.com/courses/front-end-web-development-get-started) [观看][付费]
 * [从 HTML5，CSS 和 JavaScript 快速开始前端开发](http://www.pluralsight.com/courses/front-end-web-app-html5-javascript-css) [观看][付费]
 * [前端开发介绍](https://frontendmasters.com/courses/web-development/) [观看][付费]
