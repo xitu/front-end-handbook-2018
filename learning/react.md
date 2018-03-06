@@ -4,7 +4,7 @@
 
 * [ReactJS 初学指南](https://egghead.io/courses/the-beginner-s-guide-to-reactjs) [文章]
 * [对仅仅知道 jQuery 的人介绍 React.js](http://chibicode.com/react-js-introduction-for-people-who-know-just-enough-jquery-to-get-by/) [文章]
-* [关于 React 你必须知道的 13 件事情](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/) [rea文章d]
+* [关于 React 你必须知道的 13 件事情](http://aimforsimplicity.com/post/13-things-you-need-to-know-about-react/) [文章]
 * [教程: 介绍 React](https://facebook.github.io/react/tutorial/tutorial.html) [文章]
 * [对初学者来说，ReactJS 意味着什么](http://blog.andrewray.me/reactjs-for-stupid-people/) [文章]
 * [对 React 的完整介绍，v3 (feat. Redux, Router & Flow)](https://frontendmasters.com/courses/react/) [视频][$]
