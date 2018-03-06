@@ -1,9 +1,9 @@
 # 前端开发者开发了什么
 
-一个前端开发者编写 HTML，CSS 和 JS 一般运行在由以下操作系统（又名 OSs）发布的 web 平台上（例如网页浏览器）：
+一个前端开发者编写 HTML，CSS 和 JS 一般运行在由以下操作系统（又名 OSs）搭载的 web 平台上（例如网页浏览器）：
 
 * Android
-* Chromium 
+* Chromium
 * iOS
 * OS X
 * Ubuntu (or some flavor of Linux)
@@ -24,7 +24,7 @@
 
 <cite>图片来源：<a href="https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/">https://www.enterpriseirregulars.com/104084/roundup-internet-things-forecasts-market-estimates-2015/</a></cite>
 
-一般来说，前端技术可以应用在前面提到的以下使用实时 web 平台的操作系统和设备上：
+一般来说，前端技术可以用在上述提到的操作系统和设备的web平台上：
 
 * web 浏览器 (例如: [Chrome, IE, Safari, Firefox](http://outdatedbrowser.com/en)).
 * [无界面浏览器](https://en.wikipedia.org/wiki/Headless_browser) (例如: [phantomJS](http://phantomjs.org/)).
