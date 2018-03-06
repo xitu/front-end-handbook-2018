@@ -5,7 +5,7 @@
 * [d3](http://d3js.org/)
 * [sigmajs](http://sigmajs.org/)
 
-##### 小工具 & 组件:
+##### 小部件 & 组件:
 
 * [amCharts](http://www.amcharts.com/) [免费 $]
 * [AnyChart](http://www.anychart.com/) [非商业则免费 $]
