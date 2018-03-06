@@ -1,6 +1,6 @@
-# Part I. The Front-End Practice
+# 第一部分：前端实践
 
-Part one broadly describes the practice of front-end engineering.
+第一部分概括地描述了前端工程实践。
 
 
 
