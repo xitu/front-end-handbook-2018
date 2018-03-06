@@ -17,7 +17,7 @@
 * [构建你的第一个高质量 React 应用](https://egghead.io/courses/build-your-first-production-quality-react-app) [视频][收费]
 * [先进的 React 组件模式](https://egghead.io/courses/advanced-react-component-patterns) [视频][收费]
 * [React 模式](https://reactpatterns.com/) [文章]
-* [8 关键的 React 组件要点](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594) [文章]
+* [8 个关键的 React 组件要点](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594) [文章]
 * [React + Mobx 代码库，包含遵守 RealWorld 规范和 API 的真实世界示例（CRUD，auth 和先进的规则等等）](https://github.com/gothinkster/react-mobx-realworld-example-app) [代码]
 * [React Router 的介绍和路由选择的原理](https://medium.freecodecamp.org/react-router-v4-philosophy-and-introduction-730fd4fff9bc) [文章]
 
