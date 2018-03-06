@@ -8,7 +8,7 @@
 
 本书将有意成为一份专业资料，为想要或正在实践的前端开发者提供学习材料和开发工具。 其次，它可以被管理人员、CTO、讲师和猎头用来深入了解前端开发实践。
 
-该手册的内容密切关注Web技术（HTML、CSS、DOM 和JavaScript）以及直接建立在这些开源技术之上的解决方案。 书中引用和讨论的材料要么是同类中最好的，要么是当前流行的解决办法。
+该手册的内容密切关注Web技术（HTML、CSS、DOM 和 JavaScript）以及直接建立在这些开源技术之上的解决方案。 书中引用和讨论的材料要么是同类中最好的，要么是当前流行的解决办法。
 
 本书不应被视为前端开发人员可用的所有资源的全面概述。 本书的价值体现在对大量的分类信息进行简洁、有针对性和及时的整理，以免在某一特定主题下徘徊不定。
 
@@ -34,7 +34,7 @@
 
 * [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
 
-**在github上贡献内容、提建议和修复bug**:
+**在 github 上贡献内容、提建议和修复bug**:
 
 * [https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 

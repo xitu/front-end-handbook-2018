@@ -1,11 +1,11 @@
 # 目录
 
 * [什么是前端开发人员？](what-is-a-FD.md)
-* [2017年前端开发回顾](recap.md)
-* [2018年的期待...](2018.md)
+* [2017 年前端开发回顾](recap.md)
+* [2018 年的期待...](2018.md)
 * [第一部分：前端实践](practice.md)
 	* [前端工作职位](practice/types-of-front-end-dev.md)
-    * [通用的Web技术收录](practice/tech-employed-by-fd.md)
+    * [通用的 Web 技术收录](practice/tech-employed-by-fd.md)
 	* [前端开发技能](practice/skills.md)
     * [前端开发人员开发了...](practice/fd-dev-for.md)
 	* [前端开发团队](practice/team.md)
@@ -23,7 +23,7 @@
         * [了解 HTTP/网络](learning/http-networks.md)
         * [了解虚拟主机](learning/hosting.md)
         * [了解通用前端开发](learning/front-end.md)
-        * [了解UI /交互设计](learning/ui-design-patterns.md)
+        * [了解 UI/交互设计](learning/ui-design-patterns.md)
     	* [了解 HTML 和 CSS](learning/html-css.md)
         * [了解 SEO](learning/seo.md)
     	* [了解 JavaScript](learning/javascript.md)
