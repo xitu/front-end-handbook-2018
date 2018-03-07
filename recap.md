@@ -3,7 +3,7 @@
 * HTML 5.2 [发布](https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/)。
 * [毫无疑问]((https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1))，这是 [Vue.js](https://vuejs.org/) 在[流行](https://stateofjs.com/2017/front-end/results/)中飞速发展的一年。
 * 前端 HTML & CSS 开发者和前端应用程序开发者之间的[巨大区别](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)终于[被认知，并重新定义](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)。
-* 作为使用 web 技术构建应用程序的前端 JavaScript 开发者变得越来越好，也[越来越糟](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)。, 
+* 作为使用 web 技术构建应用程序的前端 JavaScript 开发者变得越来越好，也[越来越糟](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)。
 * 今年似乎比往年更多的涌现出一批试图与主流 JavaScript 应用工具（[React，Angular，Vue 等](https://stateofjs.com/2017/front-end/results)）相抗衡的应用程序/框架解决方案。我来列举一部分，[Moon](http://moonjs.ga/docs/overview.html)，[Marko](https://markojs.com/)，[Hyperapp](https://github.com/hyperapp/hyperapp)，[Quasar Framework](http://quasar-framework.org/)，[POI](https://poi.js.org)，[frint](https://frint.js.org/)，[BunnyJS](https://bunnyjs.com/)，[jsblocks](http://jsblocks.com/)，[Sapper](https://sapper.svelte.technology/)，[Stimulus](https://github.com/stimulusjs/stimulus)，[Choo](https://github.com/choojs/choo)...
 * jsbin 和 jsfiddle 进化成了 [StackBliz](https://stackblitz.com/) 和 [codeSandbox](https://codesandbox.io/) 的样子，它们让分享一个应用程序变得如此简单。
 * React 继续被 [preact](https://preactjs.com/)，[inferno](https://infernojs.org/)，[nerv](https://github.com/NervJS/nerv)，[dva](https://github.com/dvajs/dva) 和 [rax](https://github.com/alibaba/rax) 之类的所追捧。
@@ -25,7 +25,7 @@
 * Web 组件仍然潜伏着，等待着开发人员的大力推动，这可能永远不会发生。
 * JavaScript 安定了，[CSS 爆发了](http://michelebertoli.github.io/css-in-js/)，明年的这个时候所有人都会疲惫不堪。
 * 许多人在使用组件树构建应用程序的时候，开始将 CSS [转移](https://speakerdeck.com/vjeux/react-css-in-js)到 [JS 中的 CSS](https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04) 里。
-* [Yarn](https://yarnpkg.com/en/) 似乎满足了需求，因为很多人从 npm 换成 yarn。然而，Yarn 最大的价值在于它为 npm 带来竞争，从而使得 npm 变得更好。
+* [Yarn](https://yarnpkg.com/en/) 似乎满足了需求，因为很多人从 npm 换成 Yarn。然而，Yarn 最大的价值在于它为 npm 带来竞争，从而使得 npm 变得更好。
 * [Scrimba](https://scrimba.com/about) 将用于交互式的编码屏幕录像（录制现场的编辑器是可编辑的）的新的视频格式成为现实。
 * 大多数人开始意识到[组件架构](https://en.wikipedia.org/wiki/Component-based_software_engineering)和[原子化设计](http://patternlab.io/)之间的关联。
 * ES 模块[将](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)成为[浏览器](https://caniuse.com/#feat=es6-module)的[一部分](https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7)，并且如果使用 ES 模块，[备用计划](https://github.com/WebReflection/ecma)将是必需的（即来自 webpack 之类的打包文件）。
@@ -44,6 +44,6 @@
 * Facebook 继续领头[负责开发](https://code.facebook.com/projects/)即将到来的如 [prepack.io](https://prepack.io/) 之类的工具。
 * 正如期待，[ECMA-262 第 8 版也就是 ES2017 发布](https://www.ecma-international.org/publications/standards/Ecma-262.htm)。
 * [React Router](https://reacttraining.com/react-router/) 终于稳定下来了。
-* 所有的现代浏览器现在都支持 [ECMAScript 2015 （也就是 ES6）](http://kangax.github.io/compat-table/es6/)。
+* 所有的现代浏览器现在都支持 [ECMAScript 2015（也就是 ES6）](http://kangax.github.io/compat-table/es6/)。
 * [Async JavaScript 函数](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) 开始获得一些认真的关注及使用，主要是因为所有现在浏览器[现在都支持 Async 函数](https://caniuse.com/#search=async%20fun)了。
 * 移动开发，[仍然](https://flutter.io/)[很](https://facebook.github.io/react-native/)[难](https://www.nativescript.org/)。今年，强烈地倡导 [web 平台作为解决这一痛苦的方案](https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/)获得了[大量的支持](https://joreteg.com/blog/betting-on-the-web)。
