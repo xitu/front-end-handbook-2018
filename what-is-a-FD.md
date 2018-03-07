@@ -8,7 +8,7 @@
 
 ##### HTML, CSS, & JavaScript:
 
-前端开发者在搭建和开发网站和应用的时候，使用的是一些在[开放 Web 平台](https://en.wikipedia.org/wiki/Open_Web_Platform)上运行，或者是在非 Web 平台上，作为编译输入（比如 [React Native](https://facebook.github.io/react-native/)）的 Web 技术（比如，HTLML、CSS、DOM，以及 JavaScript）。
+前端开发者在搭建和开发网站和应用的时候，使用的是一些在[开放 Web 平台](https://en.wikipedia.org/wiki/Open_Web_Platform)上运行，或者是在非 Web 平台上，作为编译输入（比如 [React Native](https://facebook.github.io/react-native/)）的 Web 技术（比如 HTLML、CSS、DOM 以及 JavaScript）。
 
 ![](images/what-is-front-end-dev.png "https://www.upwork.com/hiring/development/front-end-developer/")
 
