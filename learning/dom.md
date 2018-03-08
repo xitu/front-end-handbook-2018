@@ -1,6 +1,6 @@
 # 学习 DOM、BOM 和 jQuery
 
-> **DOM** - 文档对象模型（DOM）是一个跨平台、不依赖语言的规范，用来表达和交互 HTML、XHTML 和 XML 文档中的对象。每个文档内的所有节点被组织成树状结构（DOM 树）。DOM 树内的对象可以通过对象方法进行操作。DOM 的公共接口在它的 API 中声明。
+> **DOM** - 文档对象模型（DOM）是一个跨平台、没有语言依赖的规范，在HTML、XHTML 和 XML 文档中用来表达和交互的对象。每个文档内的所有节点被组织成树状结构（DOM 树）。DOM 树内的对象可以通过对象方法进行操作。DOM 的公共接口在它的 API 中声明。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Document_Object_Model)</cite>
 
@@ -8,11 +8,11 @@
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Browser_Object_Model)</cite>
 
-> **jQuery** - jQuery 是一个跨平台的 Javascript 库，用来简化浏览器端的 HTML 编程。jQuery是现在最流行的 Javascript 库，在流量最大的1000万网站中有65%安装了它。jQuery免费，是一个基于 MIT 证书开源的软件。
+> **jQuery** - jQuery 是一个跨平台的 Javascript 库，用来简化客户端 HTML 的脚本。jQuery 是现在最流行的 Javascript 库，浏览量前 1000 万的网站中有 65% 使用 jQuery。jQuery 免费，是一个基于 MIT 证书开源的软件。
 
 ><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/JQuery)</cite>
 
-理想（同时也是最难）的学习路线是先 Javascript 然后 DOM 再 jQuery。不过你也可以按自己的方式来。大多数前端开发者先学习 Javascript 然后通过 jQuery 学习 DOM。无论采用哪种方式，只要确保 Javascript、DOM和jQuery对你来说不是黑箱就行。
+理想（同时也是最难）的学习路线是先 Javascript 然后 DOM 再 jQuery。不过你也可以按自己的方式来。大多数前端开发者先学习 Javascript 然后通过 jQuery 学习 DOM。无论采用哪种方式，只要确保 Javascript、DOM 和 jQuery 对你来说不是黑箱就行。
 
 ##### 入门:
 
@@ -31,7 +31,7 @@
 * [你不知道的 DOM](http://www.amazon.com/DOM-Enlightenment-Cody-Lindley/dp/1449342841/) [图文][付费] or [在线免费阅读](http://domenlightenment.com/)
 * [修复常见的 jQuery 错误](http://www.pluralsight.com/courses/fixing-common-jquery-bugs) [视频][付费]
 * [摆脱 jQuery 的 JavaScript 编程](http://www.pluralsight.com/courses/jquery-free-javascript) [视频][付费]
-* [jQuery 奇巧淫技](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [视频][付费]
+* [jQuery 贴士和技巧](http://www.pluralsight.com/courses/jquery-tips-and-tricks) [视频][付费]
 
 ##### 参考文档:
 
