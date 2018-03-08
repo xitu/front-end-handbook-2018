@@ -1,6 +1,6 @@
 # DOM 工具
 
-##### DOM 库/框架:
+##### DOM 库/框架：
 
 * [Bliss](http://blissfuljs.com/docs.html)
 * [jQuery](http://jquery.com/)
@@ -9,39 +9,39 @@
 * [cash](https://github.com/kenwheeler/cash/)
 * [Umbrella JS](http://umbrellajs.com/)
 
-##### DOM实用程序：
+##### DOM 实用程序：
 
 * [Keypress](http://dmauro.github.io/Keypress/)
 * [Tether](http://tether.io/docs/welcome/)
 * [clipboard.js](http://zenorocha.github.io/clipboard.js/)
 
-##### DOM事件工具:
+##### DOM 事件工具：
 
 * [键盘事件查看器](http://w3c.github.io/uievents/tools/key-event-viewer.html)
 
-##### DOM性能工具：
+##### DOM 性能工具：
 
 * [Chrome DevTools 时间线](https://developers.google.com/web/tools/chrome-devtools/evaluate-performance/timeline-tool)
 * [DOM 小怪兽](http://mir.aculo.us/dom-monster/)
 
-##### References:
+##### 参考：
 
-* [时间](https://html.spec.whatwg.org/#events-2)
+* [事件](https://html.spec.whatwg.org/#events-2)
 * [DOM 浏览器支持](http://www.webbrowsercompatibility.com/dom/desktop/)
 * [DOM 事件浏览器支持](http://www.webbrowsercompatibility.com/dom-events/desktop/)
-* [HTML界面浏览器支持](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
+* [HTML 界面浏览器支持](http://www.webbrowsercompatibility.com/html-interfaces/desktop/)
 * [MDN 文档对象模型 (DOM)](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN 浏览器对象模型](https://developer.mozilla.org/en-US/docs/Web/API/Window)
 * [MDN 文档对象模型](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
 * [MDN 事件参考](https://developer.mozilla.org/en-US/docs/Web/Events)
 * [MSDN 文档对象模型 (DOM)](https://msdn.microsoft.com/en-us/library/hh772384%28v=vs.85%29.aspx)
 
-##### DOM 填充/垫片:
+##### DOM Polyfills/Shims：
 
 * [dom-shims](https://github.com/necolas/dom-shims)
-* [剑指事件填充：Web平台的统一事件系统](https://github.com/jquery/PEP)
+* [剑指事件 Polyfills：Web 平台的统一事件系统](https://github.com/jquery/PEP)
 
-##### 虚拟DOM:
+##### 虚拟 DOM：
 
 * [jsdom](https://github.com/tmpvar/jsdom)
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom)
