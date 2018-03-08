@@ -1,7 +1,7 @@
-# Learn JS API Design
+# 了解如何设计 JS API 
 
-* [Designing Better JavaScript APIs](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) [read]
-* [Writing JavaScript APIs](http://blog.wolksoftware.com/writing-javascript-apis) [read]
+* [设计更好的 JavaScript API](http://www.smashingmagazine.com/2012/10/designing-javascript-apis-usability/) [read]
+* [编写 JavaScript API](http://blog.wolksoftware.com/writing-javascript-apis) [read]
 
 
 
