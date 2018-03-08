@@ -1,8 +1,8 @@
-# 定向学习
+# 指导性学习
 
-以下表格包括了一些教员主导式付费的前端开发教程、课程、学校和训练营。
+以下表格包括了一些教师辅导式付费前端课程、项目、学校和训练营。
 
-然而，对于自我驱动的开发者而言，如果无法承担定向教育的费用（实在太贵了），也可以通过录屏、书籍和文章来[自学](../learning/self-direct-learning.html)学习前端开发。
+对于自律型开发者，如果无法承担指导性学习的费用（实在太贵了），也可以通过录屏、书籍和文章来自学。
 
 <table>
     <thead>
@@ -24,7 +24,7 @@
         </tr>
         <tr>
             <td>BLOC</td>
-            <td><a target="_blank" href="https://www.bloc.io/frontend-development-bootcamp">成为全前端开发者</a></td>
+            <td><a target="_blank" href="https://www.bloc.io/frontend-development-bootcamp">成为前端开发者</a></td>
             <td>4,999</td>
             <td></td>
             <td>是</td>
@@ -33,7 +33,7 @@
             <td>General Assembly</td>
             <td><a target="_blank" href="https://generalassemb.ly/education/front-end-web-development">前端开发</a></td>
             <td>3,500</td>
-            <td>多个地点</td>
+            <td>多地点</td>
             <td></td>
         </tr>
         <tr>
@@ -68,7 +68,7 @@
             <td>Udacity</td>
             <td><a target="_blank" href="https://www.udacity.com/course/nd001">Front-End Web Developer Nanodegree</a></td>
             <td>每月200</td>
-            <td>多个地点</td>
+            <td>多地点</td>
             <td>是</td>
         </tr>
     </tbody>
