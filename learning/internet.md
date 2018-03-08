@@ -6,7 +6,7 @@
 
 ![](../images/how-the-internet-works.jpg "https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/")
 
-<cite>图片来源: <a href="https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/">https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/</a></cite>
+<cite>图片来源：<a href="https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/">https://www.helloitsliam.com/2014/12/20/how-the-internet-works-infographic/</a></cite>
 
 * [什么是 Internet?](https://www.youtube.com/watch?v=Dxcc6ycZ73M) [watch]
 * [Web 是怎样工作的](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works) [read]
@@ -20,4 +20,4 @@
 
 ![](../images/who-runs-the-internet-infographic.jpg "http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/")
 
-<cite>图片来源: <a href="http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/">http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/</a></cite>
+<cite>图片来源： <a href="http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/">http://www.bitrebels.com/technology/find-out-who-runs-the-internet-chart/</a></cite>
