@@ -8,7 +8,7 @@
 
 * [Bash 指南](http://guide.bash.academy/) [图文]
 * [Codecademy：学习命令行](https://www.codecademy.com/courses/learn-the-command-line) [视频]
-* [如何成为命令行超级用户](http://commandlinepoweruser.com/) [视频]
+* [如何成为命令行高手](http://commandlinepoweruser.com/) [视频]
 * [命令行小试身手](http://www.learnenough.com/command-line-tutorial) [图文] [免费阅读，电子书需付费]
 * [初识命令行](http://www.pluralsight.com/courses/meet-command-line) [视频][付费]
 
