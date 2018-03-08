@@ -45,11 +45,11 @@
 * [函数式编程术语](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
 * [JavaScript 中的函数式编程](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [watch]
 * [轻量级 JS 函数式编程](https://github.com/getify/Functional-Light-JS) [read]
-* [JavaScript 中的函数式编程：如何使用函数技术改进JavaScript程序](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
+* [JavaScript 中的函数式编程：如何使用函数技术改进 JavaScript 程序](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
 * [在 JavaScript 中对 FP 的适当指导](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
 * [Frisby 教授介绍函数式 JavaScript 的 Composable](https://egghead.io/courses/professor-frisby-introduces-composable-functional-javascript) [watch]
 * [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
-* [JavaScript中的硬核函数编程](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
+* [JavaScript 中的硬核函数编程](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
 * [JavaScript 轻量级函数式编程](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
 
 ##### 参考/文档:
@@ -90,7 +90,7 @@
 * [JavaScript Weekly](http://javascriptweekly.com/)
 * [JavaScript.com](https://www.javascript.com/news)
 
-##### 过时的JS学习资源:
+##### 过时的 JS 学习资源:
 
 * [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
 * [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
