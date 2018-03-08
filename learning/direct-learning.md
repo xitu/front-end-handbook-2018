@@ -1,3 +1,3 @@
-# Directed Learning
+# 指导性学习
 
-This section focuses on directed learning via schools, courses, programs and bootcamps.
+本章节着重介绍学校，课程，项目和训练营中的指导性学习。
