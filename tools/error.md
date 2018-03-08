@@ -1,4 +1,4 @@
-# JavaScript错误报告/监测
+# JavaScript 错误报告/监测
 
 * [bugsnag](https://bugsnag.com/) [$]
 * [errorception](https://errorception.com/) [$]
