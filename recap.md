@@ -1,49 +1,49 @@
-# Recap of Front-end Development in 2017
+# 2017 前端技术发展回顾
 
-* HTML 5.2 is [done](https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/).
-* It was a banner year for [Vue.js](https://vuejs.org/) in terms of adoption and popularity. [No question](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1) about [it](https://stateofjs.com/2017/front-end/results/).
-* The [great](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411) divide between a front-end HTML & CSS developer v.s. [front-end application developer is realized/verbalized](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06).
-* Being a Front-end JavaScript developer who builds applications using web technologies continues to get better and [worse](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae).
-* This year seemed fuller than most of app/framework solutions trying to contend with the mainstream JavaScript app tools (i.e. [React, Angular, and Vue etc...](https://stateofjs.com/2017/front-end/results)) Let me list them for you. [Moon](http://moonjs.ga/docs/overview.html), [Marko](https://markojs.com/), [Hyperapp](https://github.com/hyperapp/hyperapp), [Quasar Framework](http://quasar-framework.org/), [POI](https://poi.js.org), [frint](https://frint.js.org/), [BunnyJS](https://bunnyjs.com/), [jsblocks](http://jsblocks.com/), [Sapper](https://sapper.svelte.technology/), [Stimulus](https://github.com/stimulusjs/stimulus), [Choo](https://github.com/choojs/choo), 
-* This was the year that jsbin and jsfiddle evolved to things like [StackBliz](https://stackblitz.com/) and [codeSandbox](https://codesandbox.io/). Making it dead simple to share a working app.
-* React continues to be flattered by things like [preact](https://preactjs.com/), [inferno](https://infernojs.org/), [nerv](https://github.com/NervJS/nerv), [dva](https://github.com/dvajs/dva), and [rax](https://github.com/alibaba/rax).
-* Cheatsheets got organized with [devhints.io](https://devhints.io/).
-* We figured out that the correct pattern for an app boilerplate/cli tool is something very opinionated like [React Create App](https://github.com/facebookincubator/create-react-app) with the ability to [escape](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject) from it when needed.
-* Most developers found that the combination of a really good [code editor](https://code.visualstudio.com/), [eslint](https://eslint.org/), and now [prettier](https://github.com/prettier/prettier) make writing code faster, easier, pleasurable.
-* CSS [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) and [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) gain browser support and thus more developers are paying [attention to both](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/).
-* We [get](https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html), a [headless chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md), finally.
-* You no longer need Less or Sass [to do](https://shoelace.style) amazing [things with CSS](http://cssnext.io/features/).
-* CSS [revolutions/revolts](http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html) are under way.
-* JavaScript object explorer tools have arrived, [JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
-and [JavaScript Object Explorer](https://sdras.github.io/object-explorer/). This is a handy interface pattern for learning about JavaScript data types (e.g. Objects and Arrays) and their methods. 
-* The [Chrome web browser dominates the market](http://gs.statcounter.com/browser-market-share) and people begin to fear the past might be [repeating itself](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards).
-* [Brave](https://brave.com/) becomes the most pleasant and safest way to browser the internet.
-* [PhantomJS is no longer maintained](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain), [Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) and [Puppeteer](https://github.com/GoogleChrome/puppeteer) step in.
-* [Prettier](https://prettier.io/) comes from left field and becomes a staple for development.
-* A whole lot of developers adopt static type checking for mostly subjective reasons or band wagon emotions. Some sell out completely to [Typescript](https://github.com/Microsoft/TypeScript) and the Microsoft way of doing things while others take on a slower approach with [Flow](https://github.com/facebook/flow). One thing is for sure, most developers don't need types, they are simply complicating already complex problems and solutions. Like most things, most of this trend is subjective dogma not objective value.
-* [Static site generators](https://www.staticgen.com/) & [API CMS tools aka Headless CMS's](https://en.wikipedia.org/wiki/Headless_CMS) are now on most developers radar.
-* Web components still lurking and wait for significant traction by developers that might never come to be.
-* JavaScript settled and [CSS erupt](http://michelebertoli.github.io/css-in-js/) and everyone will cry fatigue by this time next year.
-* A lot of people stop doing CSS in CSS and [move](https://speakerdeck.com/vjeux/react-css-in-js) to [CSS in JS](https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04) when building application using component trees.
-* [Yarn](https://yarnpkg.com/en/) seems to have filled a need, because a lot of people jump the npm ship. However, the real value of Yarn is the fact that it brings competition to NPM. Making npm better.
-* A new video format for Interactive coding screencasts (recording of working in a live editor that you can edit too) becomes a real thing with [Scrimba](https://scrimba.com/about).
-* Most people begin to see the correlation between [component architectures](https://en.wikipedia.org/wiki/Component-based_software_engineering) and [atomic design](http://patternlab.io/).
-* And so it begins that ES modules [will](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/) be [part](https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7) of [the browser](https://caniuse.com/#feat=es6-module) and if used a [backup plan](https://github.com/WebReflection/ecma) will be required (i.e. a bundle from something like webpack).
-* [MVC frameworks are on the outs](https://codeburst.io/javascript-trends-in-2018-3fb0077259).
-* Developing and displaying React components outside of your applications is made popular by tools like [Bluekit](http://bluekit.blueberry.io/), [Storybook](https://storybook.js.org/), [React Styleguidist](Styleguidist), and [bit](https://bitsrc.io/).
-* Getting a front-end job in 2017 is about [experience, which is displayed from personal projects and a developers Github account](https://research.hackerrank.com/developer-skills/2018/).
-* [Preloading](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content) resources (CSS, JavaScript, Media etc..) from HTML documents [arrives](https://www.w3.org/TR/preload/).
-* [Cypress arrives](https://www.cypress.io/how-it-works/) as a complete testing solution and hopefully testing will get better as end to end testing becomes the focus for app code.
-* [WebAssembly support now shipping in all major browsers](https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/)
-* [Webpack](https://webpack.js.org/) dominates, and then [competitors](https://github.com/parcel-bundler/parcel) show up.
-* [React 16 aka fiber is released](https://reactjs.org/blog/2017/09/26/react-v16.0.html).
-* React begins to rival jQuery in popularity in certain contexts.
-* React [clearly](https://twitter.com/npmjs/status/949017852702543876) is the [most used](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1) tool [for building UI's](https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/) with state.
-* Facebook [sheds its React BSD license](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/) for the MIT license (same for Jest, Flow, Immutable.js, and GraphQL)
-* [GraphQL](https://dev-blog.apollodata.com/2017-the-year-in-graphql-124a050d04c6) got [hot](https://graphcms.com/) in [2017](https://www.graphql.com/case-studies/).
-* Facebook continues to [take charge in the development space](https://code.facebook.com/projects/) with forthcoming tools like [prepack.io](https://prepack.io/).
-* As expected [ECMA-262 edition 8 is released](https://www.ecma-international.org/publications/standards/Ecma-262.htm).
-* [React Router](https://reacttraining.com/react-router/) finally stabilizes.
-* All modern browsers pretty much now [support ECMAScript 2015](http://kangax.github.io/compat-table/es6/) (aka ES6).
-* [Async JavaScript functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) start getting some serious attention and usage. Mostly because all modern browsers [now support Async functions](https://caniuse.com/#search=async%20fun).
-* Mobile development, [still](https://flutter.io/) [too](https://facebook.github.io/react-native/) [hard](https://www.nativescript.org/). A strong rebellion advocating the [web platform](https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/) as a solution to the pain [gained momentum](https://joreteg.com/blog/betting-on-the-web) this year.
+* HTML 5.2 [发布](https://www.w3.org/blog/2017/12/html-5-2-is-done-html-5-3-is-coming/)。
+* [毫无疑问]((https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1))，这是 [Vue.js](https://vuejs.org/) 在[流行](https://stateofjs.com/2017/front-end/results/)中飞速发展的一年。
+* 前端 HTML & CSS 开发者和前端应用程序开发者之间的[巨大区别](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)终于[被认知，并重新定义](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)。
+* 作为使用 web 技术构建应用程序的前端 JavaScript 开发者变得越来越好，也[越来越糟](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)。
+* 今年似乎比往年更多的涌现出一批试图与主流 JavaScript 应用工具（[React，Angular，Vue 等](https://stateofjs.com/2017/front-end/results)）相抗衡的应用程序/框架解决方案。我来列举一部分，[Moon](http://moonjs.ga/docs/overview.html)，[Marko](https://markojs.com/)，[Hyperapp](https://github.com/hyperapp/hyperapp)，[Quasar Framework](http://quasar-framework.org/)，[POI](https://poi.js.org)，[frint](https://frint.js.org/)，[BunnyJS](https://bunnyjs.com/)，[jsblocks](http://jsblocks.com/)，[Sapper](https://sapper.svelte.technology/)，[Stimulus](https://github.com/stimulusjs/stimulus)，[Choo](https://github.com/choojs/choo)...
+* jsbin 和 jsfiddle 进化成了 [StackBliz](https://stackblitz.com/) 和 [codeSandbox](https://codesandbox.io/) 的样子，它们让分享一个应用程序变得如此简单。
+* React 继续被 [preact](https://preactjs.com/)，[inferno](https://infernojs.org/)，[nerv](https://github.com/NervJS/nerv)，[dva](https://github.com/dvajs/dva) 和 [rax](https://github.com/alibaba/rax) 之类的所追捧。
+* [devhints.io](https://devhints.io/) 很好地将 cheatsheets 组织了起来。
+* 我们发现应用程序的样板或者命令行工具是带有偏见的，例如 [React Create App](https://github.com/facebookincubator/create-react-app)，必要的时候我们要从中逃离。
+* 大多数开发人员发现，一个好的[代码编辑器](https://code.visualstudio.com/)，[eslint ](https://eslint.org/)以及 [prettier](https://github.com/prettier/prettier) 的组合使写代码这件事更快，更轻松愉快。
+* CSS [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 和 [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) 获得浏览器支持，因此越来越多开发者开始关注这两者。
+* 我们[终于](https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html)有[无头的 Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) 了。
+* 你不再需要用 Less 或者 Sass 来[使用 CSS](https://shoelace.style) 来完成[令人惊叹的事情](http://cssnext.io/features/)了。
+* CSS [革命](http://ryanogles.by/css/javascript/2017/05/25/the-state-of-css.html)正在进行中。
+* JavaScript 对象浏览工具已经到来，[JavaScript Array Explorer](https://sdras.github.io/array-explorer/)
+  和 [JavaScript Object Explorer](https://sdras.github.io/object-explorer/)，它们对于学习 JavaScript 数据类似（例如对象）是非常方便有用的。
+* [Chrome 浏览器在市场上占据主导地位](http://gs.statcounter.com/browser-market-share)，人们开始担心[历史可能会重演](https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards)。
+* [Brave](https://brave.com/) 成为浏览互联网最愉快且安全的方式。
+* [PhantomJS 不再维护](https://www.infoq.com/news/2017/04/Phantomjs-future-uncertain)，[Headless Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) 和 [Puppeteer](https://github.com/GoogleChrome/puppeteer) 进入。
+* [Prettier](https://prettier.io/) 从一个意想不到的地方开始，却成为了一个主角。
+* 很多开发者开始采用静态检查，主要是出于主观原因和赶时髦。有些人完全遵从了 [Typescript](https://github.com/Microsoft/TypeScript) 和微软的做事方式，也有些人采取的较慢的 [Flow](https://github.com/facebook/flow)。有一点可以肯定，大多数开发者不需要类型，他们只是把已经复杂的问题和解决方法更加复杂化。像大多数事情一样，这种趋势大部分是主观教条而非客观价值。
+* [静态网站生成器](https://www.staticgen.com/)和 [API CMS 工具也就是无头 CMS](https://en.wikipedia.org/wiki/Headless_CMS) 现在在大多数开发者的雷达上。
+* Web 组件仍然潜伏着，等待着开发人员的大力推动，这可能永远不会发生。
+* JavaScript 安定了，[CSS 爆发了](http://michelebertoli.github.io/css-in-js/)，明年的这个时候所有人都会疲惫不堪。
+* 许多人在使用组件树构建应用程序的时候，开始将 CSS [转移](https://speakerdeck.com/vjeux/react-css-in-js)到 [JS 中的 CSS](https://levelup.gitconnected.com/a-brief-history-of-css-in-js-how-we-got-here-and-where-were-going-ea6261c19f04) 里。
+* [Yarn](https://yarnpkg.com/en/) 似乎满足了需求，因为很多人从 npm 换成 Yarn。然而，Yarn 最大的价值在于它为 npm 带来竞争，从而使得 npm 变得更好。
+* [Scrimba](https://scrimba.com/about) 将用于交互式的编码屏幕录像（录制现场的编辑器是可编辑的）的新的视频格式成为现实。
+* 大多数人开始意识到[组件架构](https://en.wikipedia.org/wiki/Component-based_software_engineering)和[原子化设计](http://patternlab.io/)之间的关联。
+* ES 模块[将](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)成为[浏览器](https://caniuse.com/#feat=es6-module)的[一部分](https://medium.com/dev-channel/es6-modules-in-chrome-canary-m60-ba588dfb8ab7)，并且如果使用 ES 模块，[备用计划](https://github.com/WebReflection/ecma)将是必需的（即来自 webpack 之类的打包文件）。
+* [MVC 框架正在淡出](https://codeburst.io/javascript-trends-in-2018-3fb0077259)。
+* 使用[Bluekit](http://bluekit.blueberry.io/)，[Storybook](https://storybook.js.org/)，[React Styleguidist](Styleguidist) 和 [bit](https://bitsrc.io/) 之类的工具，在你的应用程序之外开发和展示 React 组件开始变得流行。
+* 在 2017 年获得前端工作[有关经验，这是从个人项目以及 Github 账号上展示出来的](https://research.hackerrank.com/developer-skills/2018/)。
+* 从 HTML 文档中[预加载](https://developer.mozilla.org/en-US/docs/Web/HTML/Preloading_content)资源（CSS，JavaScript，多媒体文件等）[到来了](https://www.w3.org/TR/preload/)。
+* [Cypress](https://www.cypress.io/how-it-works/) 作为一个完整的测试解决方案出现了，测试会越来越好，因为对于应用程序的代码，端到端测试才是重点。
+* [WebAssembly 现在可以总所有主流浏览器中使用了。](https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/)
+* [Webpack](https://webpack.js.org/) 占主导地位，然后[竞争对手 parcel](https://github.com/parcel-bundler/parcel) 出现了。
+* [React 16 代号 fiber 发布](https://reactjs.org/blog/2017/09/26/react-v16.0.html)。
+* 在某些情况下，React 开始与 jQuery 一较高下。
+* React [的确](https://twitter.com/npmjs/status/949017852702543876)成为了[最多人使用](https://www.npmjs.com/npm/state-of-javascript-frameworks-2017-part-1)的[构建 UI](https://stackoverflow.blog/2018/01/11/brutal-lifecycle-javascript-frameworks/) 的工具。
+* Facebook [放弃了 React 的 BSD 许可证](https://code.facebook.com/posts/300798627056246/relicensing-react-jest-flow-and-immutable-js/)，而转成了 MIT 许可证（同样包括 Jest，Flow，Immutable.js 和 GraphQL）。
+* [2017](https://www.graphql.com/case-studies/) 年 [GraphQL](https://dev-blog.apollodata.com/2017-the-year-in-graphql-124a050d04c6) 开始[流行起来](https://graphcms.com/)。
+* Facebook 继续领头[负责开发](https://code.facebook.com/projects/)即将到来的如 [prepack.io](https://prepack.io/) 之类的工具。
+* 正如期待，[ECMA-262 第 8 版也就是 ES2017 发布](https://www.ecma-international.org/publications/standards/Ecma-262.htm)。
+* [React Router](https://reacttraining.com/react-router/) 终于稳定下来了。
+* 所有的现代浏览器现在都支持 [ECMAScript 2015（也就是 ES6）](http://kangax.github.io/compat-table/es6/)。
+* [Async JavaScript 函数](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) 开始获得一些认真的关注及使用，主要是因为所有现在浏览器[现在都支持 Async 函数](https://caniuse.com/#search=async%20fun)了。
+* 移动开发，[仍然](https://flutter.io/)[很](https://facebook.github.io/react-native/)[难](https://www.nativescript.org/)。今年，强烈地倡导 [web 平台作为解决这一痛苦的方案](https://blog.mozilla.org/firefox/progressive-web-apps-whats-big-deal/)获得了[大量的支持](https://joreteg.com/blog/betting-on-the-web)。
