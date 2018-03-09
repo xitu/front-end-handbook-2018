@@ -6,16 +6,16 @@
 
 ![](../images/host.jpg "http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg")
 
-<cite>图源： <a href="http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg">http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg</a></cite>
+<cite>图源：<a href="http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg">http://www.alphaelite.com.sg/sitev2/images/stories/webhostdemo.jpg</a></cite>
 
 
 ##### 综合学习：
 
 * [什么是 Web 主机服务](https://firstsiteguide.com/web-hosting/) [阅读]
-* [Web Hosting 101 课程： 立刻让你的网站上线](https://www.udemy.com/web-hosting-101/) [视频]
+* [Web Hosting 101 课程：立刻让你的网站上线](https://www.udemy.com/web-hosting-101/) [视频]
 
 ![](https://raw.githubusercontent.com/lsvih/front-end-handbook-2018/zh-Hans/learning/what-is-web-hosting-infographic.jpg)
 
-<cite>图源： <a href="https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg">https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg</a></cite>
+<cite>图源：<a href="https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg">https://firstsiteguide.com/wp-content/uploads/2016/06/what-is-web-hosting-infographic.jpg</a></cite>
 
 
