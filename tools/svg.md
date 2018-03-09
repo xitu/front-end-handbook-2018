@@ -4,7 +4,7 @@
 
 * [清理多个渐变中间点](http://codepen.io/jakealbaugh/pen/OVrQXY)
 * [Peter Collingridge 的 SVG 优化工具](http://petercollingridge.appspot.com/svg-optimiser)
-* [Scour —— SVG 清洁器](http://www.codedread.com/scour/)
+* [Scour 开发的 SVG 整理器](http://www.codedread.com/scour/)
 * [SVG 清洁器](https://launchpad.net/svg-cleaner)
 * [SVGO](https://github.com/svg/svgo)
 * [SVGO-GUI](https://github.com/svg/svgo-gui)
@@ -17,7 +17,7 @@
 * [Inkscape](https://inkscape.org/en/)
 * [Sketch](https://www.sketchapp.com/)
 
-##### 精灵图生成工具：
+##### 雪碧图生成工具：
 
 * [Fontastic](http://fontastic.me/)
 * [Grunticon](http://www.grunticon.com/)
