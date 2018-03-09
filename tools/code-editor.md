@@ -28,7 +28,8 @@
 
 ##### 在线代码编辑器:
 
-* [Cloud9](https://c9.io) [免费 $]
+* [PaizaCloud](https://paiza.cloud) [免费 $]
+* [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
 * [Codeanywhere](https://codeanywhere.com) [免费 $]
 
 ##### 可共享运行的代码编辑器：
