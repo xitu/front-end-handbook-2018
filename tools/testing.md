@@ -21,12 +21,12 @@
 * [expect.js](https://github.com/Automattic/expect.js)
 * [should.js](http://shouldjs.github.io/)
 
-##### 用于单元测试的测试 Spies、Stubs 和 Mocks：
+##### 用于单元测试的 Spies、Stubs 和 Mocks：
 
 * [sinon.js](http://sinonjs.org/)
 * [Kakapo.js](http://devlucky.github.io/kakapo-js)
 
-##### 浏览器托管测试/自动化测试：
+##### 用于测试/自动化的托管浏览器：
 
 * [Browserling](https://www.browserling.com/) [$]
 * [BrowserStack](https://www.browserstack.com) [$]
@@ -56,7 +56,7 @@
 * [Ghost Inspector](https://ghostinspector.com/)
 * [diff.io](https://diff.io/)
 
-##### 自动化死链和错误检测工具：
+##### 死链和错误的自动化检测工具：
 
 * [Monkey Test It](https://monkeytest.it/)
 
@@ -64,51 +64,6 @@
 
 ###### 注意：
 
-测试框架通常不限于只提供单元测试。如果你正在寻找 JavaScript 单元测试解决方案，可以浏览 [JavaScript 工具](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/tools/js.html)。
+测试框架通常不仅局限于提供单元测试。如果你正在寻找 JavaScript 单元测试解决方案，可以浏览 [JavaScript 工具](https://frontendmasters.gitbooks.io/front-end-handbook-2017/content/tools/js.html)。
 
-好文推荐：[2017 年测试 JavaScript 的重头戏](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+好文推荐：[2017 之 JavaScript 测试回忆录](https://medium.com/powtoon-engineering/a-complete-guide-to-testing-javascript-in-2017-a217b4cd5a2a)。
