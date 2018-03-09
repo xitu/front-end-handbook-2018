@@ -1,4 +1,3 @@
-
 # How Front-End Developers Are Made
 
 ![](../images/makingFED.png "https://github.com/kamranahmedse/developer-roadmap")
