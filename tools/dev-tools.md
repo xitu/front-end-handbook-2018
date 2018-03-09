@@ -1,4 +1,4 @@
-# GUI Development/Build Tools
+# GUI 开发/构建工具
 
 * [CodeKit](http://incident57.com/codekit/)
 * [Prepros](https://prepros.io/)

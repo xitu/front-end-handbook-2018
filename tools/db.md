@@ -1,4 +1,4 @@
-# Front-End Data Storage Tools (i.e. Data storage solution in the client)
+# 前端数据存储工具（即客户端的数据存储解决方案）
 
 * [AlaSQL](http://alasql.org/)
 * [Dexie.js](http://www.dexie.org/)
