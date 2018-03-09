@@ -1,6 +1,7 @@
 # 前端开发者指南 2018
 
-由 [Cody Lindley](http://codylindley.com/) 编写 
+### 由 [Cody Lindley](http://codylindley.com/) 编写 
+
 [Frontend Masters](https://frontendmasters.com/) 赞助，用深入的、现在的前端工程课程提升你的技能。
 
 ![](cover.jpg)
