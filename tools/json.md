@@ -1,29 +1,30 @@
-# JSON 工具
+# JSON Tools
 
-##### 在线编辑器：
+##### Online Editors:
 
 * [JSONmate](http://jsonmate.com/)
-* [json.browse()](https://jamstack.org/)
+* [JSON Editor Online](https://jsoneditoronline.org/)
 
-##### 格式化工具和验证器：
+##### Formatter & Validator:
 
 * [jsonformatter.org](http://jsonformatter.org/)
-* [JSON 格式化工具和验证器](https://jsonformatter.curiousconcept.com/)
+* [JSON Formatter & Validator](https://jsonformatter.curiousconcept.com/)
 
-##### 查询工具：
+##### Query Tools:
 
 * [DefiantJS](http://www.defiantjs.com/)
 * [JSON Mask](https://github.com/nemtsov/json-mask)
 * [ObjectPath](http://objectpath.org/) 
 
-##### 生成模拟 JSON 数据的工具：
+##### Generating Mock JSON Tools:
 
 * [JSON Generator](http://www.json-generator.com/)
-* [Mockaroo](https://www.mockaroo.com/) [免费 $]
+* [Mockaroo](https://www.mockaroo.com/) [free to $]
 
-##### 在线 JSON 模拟 API 工具：
+##### Online JSON Mocking API Tools:
 
 * [FillText.com](http://www.filltext.com/)
+* [FakeJSON](https://fakejson.com) [free to $]
 * [Jam API](https://github.com/dinubs/jam-api)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [jsonbin.io](https://jsonbin.io)
@@ -31,17 +32,17 @@
 * [mockable.io](https://www.mockable.io/)
 * [mockapi.io](http://www.mockapi.io/)
 * [Mocky](http://www.mocky.io/)
-* [随机用户生成器](https://randomuser.me/)
+* [RANDOM USER GENERATOR](https://randomuser.me/)
 
-##### 公共 JSON API 列表：
+##### List of public JSON API's:
 
-* [用于Web开发的JSON API的集合列表](https://github.com/toddmotto/public-apis)
+* [A collective list of JSON APIs for use in web development](https://github.com/toddmotto/public-apis)
 
-##### 本地 JSON 模拟 API 工具：
+##### Local JSON Mocking API Tools:
 
 * [json-server](https://github.com/typicode/json-server)
 
-##### JSON 规格/模式：
+##### JSON Specifications/Schemas:
 
 * [json-schema.org](http://json-schema.org/) & [jsonschema.net](http://jsonschema.net/)
 * [{json:api}](http://jsonapi.org/)

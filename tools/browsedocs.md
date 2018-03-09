@@ -1,14 +1,13 @@
-# 文档/API 浏览工具
+# Doc/API Browsing Tools
 
-
-浏览常用开发人员文档和开发人员 API 参考的工具。
+Tools to browser common developer documents and developer API references.
 
 * [Dash](https://kapeli.com/dash) [OS X, iOS][$]
 * [DevDocs](http://devdocs.io/)
 * [Velocity](https://velocity.silverlakesoftware.com/) [Windows][$]
 * [Zeal](https://zealdocs.org/) [Windows, Linux]
 
-备忘单:
+Cheatsheets:
 
 * [devhints.io](https://devhints.io)
 

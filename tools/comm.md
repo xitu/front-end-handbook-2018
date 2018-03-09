@@ -1,12 +1,12 @@
-# 协作和沟通工具
+# Collaboration & Communication Tools
 
-* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) [免费 $]
+* [Slack](https://slack.com/) & [screenhero](https://screenhero.com/) [free to $]
 * [appear.in](https://appear.in/)
-* [Mattermost](https://mattermost.org/) [免费 $]
+* [Mattermost](https://mattermost.org/) [free to $]
 
-##### Code/GitHub 协作和沟通:
+##### Code/GitHub Collaboration & Communication:
 
-* [Gitter](https://gitter.im) [免费 $]
+* [Gitter](https://gitter.im) [free to $]
 
 
 

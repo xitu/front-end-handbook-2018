@@ -1,4 +1,4 @@
-# 模块加载/绑定工具
+# Module Loading/Bundling Tools 
 
 * [Parcel](https://parceljs.org/)
 * [Rollup](http://rollupjs.org/)
@@ -10,15 +10,15 @@
 
 ***
 
-###### 注意:
+###### Notes:
 
-一般来说，我应该在什么时候使用 Parcel、Webpack 或 Rollup？
+Generally, when should I use Parcel, Webpack or Rollup?
 
-Parcel —— 中小型项目（小于1.5万行代码）
+Parcel — Small to medium sized projects (<15k lines of code)
 
-Webpack —— 大型到企业级规模的项目。
+Webpack — Large to enterprise sized projects.
 
-Rollup —— 针对NPM包。
+Rollup — For NPM packages.
 
 
 

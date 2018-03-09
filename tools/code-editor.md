@@ -1,55 +1,55 @@
-# 代码编辑工具
+# Code Editing Tools
 
-> 源代码编辑器是一个专门为程序员编辑计算机程序源代码而设计的文本编辑器程序。它可能是一个独立的应用程序，也可能内置于集成开发环境（IDE）或 Web 浏览器中。源代码编辑器是最基本的编程工具，因为程序员的基本职责就是编写和编辑源代码。
+> A source code editor is a text editor program designed specifically for editing source code of computer programs by programmers. It may be a standalone application or it may be built into an integrated development environment (IDE) or web browser. Source code editors are the most fundamental programming tool, as the fundamental job of programmers is to write and edit source code.
 
-><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Source_code_editor)</cite>
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Source_code_editor)</cite>
 
-前端代码可以通过简单的文本编辑应用程序（如记事本或文本编辑）进行最低限度的编辑。但是，大多数前端从业者使用专门设计用来编写编程语言的代码编辑器。
+Front-end code can minimally be edited with a simple text editing application like Notepad or TextEdit. But, most front-end practitioners use a code editor specifically design for editing a programming language.
 
-可以说，代码编辑器有各种类型和大小。从中选择一个是相当主观的决定。选择一个，从头到尾的学习，然后学习 HTML、CSS、DOM 和 JavaScript。
+Code editors come in all sorts of types and size, so to speak. Selecting one is a rather subjective engagement. Choose one, learn it inside and out, then get on to learning HTML, CSS, DOM, and JavaScript.
 
-然而，我坚信，代码编辑器应该至少具有以下特性（默认提供或通过插件提供）：
+However, I do strongly believe, minimally, a code editor should have the following qualities (by default or by way of plugins):
 
-1. 关于如何使用编辑器的良好文档
-2. 对 HTML、CSS 和 JavaScript 的代码质量进行报告（即提示/语言分析/错误）。
-3. 为 HTML、CSS 和 JavaScript 提供语法高亮显示。
-4. 为 HTML、CSS 和 JavaScript 提供代码补全。
-5. 通过插件系统进行定制
-6. 提供大量的第三方/社区插件库，可用于根据自己的喜好自定义编辑器
-7. 小而简单，并且不与代码耦合（即不需要编辑代码）
+1. Good documentation on how to use the editor
+2. Report (i.e., hinting/linting/errors) on the code quality of HTML, CSS, and JavaScript.
+3. Offer syntax highlighting for HTML, CSS, and JavaScript.
+4. Offer code completion for HTML, CSS, and JavaScript.
+5. Be customizable by way of a plug-in architecture
+6. Have available a large repository of third-party/community plug-ins that can be used to customize the editor to your liking
+7. Be small, simple, and not coupled to the code (i.e., not required to edit the code)
 
-
-##### 代码编辑器: [^1]
+##### Code Editors: [^1]
 
 * [Atom](https://atom.io/)
 * [Sublime Text](http://www.sublimetext.com/) [$]
 * [WebStorm](https://www.jetbrains.com/webstorm/whatsnew/) [$]
 * [Visual Studio Code](https://code.visualstudio.com/)
 
-##### 在线代码编辑器:
+##### Online Code Editors:
 
-* [Cloud9](https://c9.io) [免费 $]
-* [Codeanywhere](https://codeanywhere.com) [免费 $]
+* [PaizaCloud](https://paiza.cloud) [free to $]
+* [AWS Cloud9](https://aws.amazon.com/cloud9/) [$]
+* [Codeanywhere](https://codeanywhere.com) [free to $]
 
-##### 可共享运行的代码编辑器：
+##### Shareable & Runnable Code Editors:
 
-用于共享有限数量的可立即运行的代码。不是真正的代码编辑器，而是一种可用于在 Web 浏览器中共享少量可立即运行的代码的工具。
+Used to share limited amounts of immediately runnable code. Not a true code editor but a tool that can be used to share small amounts of immediately runnable code in a web browser.
 
-* [CodePen](http://codepen.io/) [免费 $]
-* [jsbin.com](http://jsbin.com/) [免费 $]
+* [CodePen](http://codepen.io/) [free to $]
+* [jsbin.com](http://jsbin.com/) [free to $]
 * [jsfiddle.net](http://jsfiddle.net/)
 * [StackBliz](https://stackblitz.com/)
 * [codeSandbox](https://codesandbox.io/)
 
 ***
 
-###### 建议:
+###### ADVICE:
 
-[^1] 我推荐使用 [Visual Studio Code](https://code.visualstudio.com/)，因为该工具的质量很好，而且对编辑器的持续改进也不会停止或减慢，因为 Microsoft 是该工具的支持者。它被广泛使用：
+[^1] I recommending using [Visual Studio Code](https://code.visualstudio.com/) because of the quality of the tool and the continuous improvements made to the editor that likely won't stop or slow due to the fact that Microsoft is behind the tool. It is widely used:
 
-![](../images/vscode.png "https://stateofjs.com/2017/other-tools/p")
+![](../images/vscode.png "https://stateofjs.com/2017/other-tools/")
 
-<cite>图片来源: <a href="https://stateofjs.com/2017/other-tools/p">https://stateofjs.com/2017/other-tools/p</a></cite>
+<cite>Image source: <a href="https://stateofjs.com/2017/other-tools/p">https://stateofjs.com/2017/other-tools/</a></cite>
 
 
 

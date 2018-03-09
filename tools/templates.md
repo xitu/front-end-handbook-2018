@@ -1,12 +1,12 @@
-# 模板引擎/数据绑定工具
+# Templating/Data Binding Tools
 
-##### 纯模板引擎
+##### Just Templating:
 
 * [doT.js](http://olado.github.io/doT/)
 * [art-template](https://aui.github.io/art-template/)
 * [Nunjuncks](http://mozilla.github.io/nunjucks/)
 
-##### 模板引擎兼具响应式数据绑定：
+##### Templating and Reactive Data Binding:
 
 * [ractive.js](https://ractive.js.org/)
 * [react.js](https://facebook.github.io/react/index.html)
@@ -18,7 +18,7 @@
 * [Rivets.js](http://rivetsjs.com/)
 * [vue.js](http://vuejs.org/)
 
-##### 用于创建虚拟 DOM 的模板引擎：
+##### Templating to Virtual DOM:
 
 * [JSX](https://facebook.github.io/jsx/)
 

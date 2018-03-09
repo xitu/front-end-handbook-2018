@@ -1,15 +1,15 @@
-# 学习离线开发
+# Learn Offline Development
 
-离线开发（又叫做离线优先）是一个围绕设备开发实践的讨论和知识领域，这些设备可能会断网或者断电。
+Offline development (aka offline first) is an area of knowledge and discussion around development practices for devices that are not always connected to the Internet or a power source.
 
-#### 一般学习
+##### General Learning:
 
-* [创建 HTML5 离线 Web 应用](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)  [文章]
-* [关于创建离线优先的 Web App 需要知道的所有知识](https://github.com/pazguille/offline-first) [文章]
-* [离线优先](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [文章]
-* [offlinefirst.org](http://offlinefirst.org) [文章]
-* [离线开发指南](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) [文章]
-* [离线开发快速入门](https://developers.google.com/web/ilt/pwa/offline-quickstart)[文章]
+* [Creating HTML5 Offline Web Applications](http://apress.jensimmons.com/v5/pro-html5-programming/ch12.html)  [read]
+* [Everything You Need to Know to Create Offline-First Web Apps](https://github.com/pazguille/offline-first) [read]
+* [Offline First](http://www.webdirections.org/offlineworkshop/ibooksDraft.pdf) [read]
+* [offlinefirst.org](http://offlinefirst.org) [read]
+* [The Offline Cookbook](https://developers.google.com/web/fundamentals/instant-and-offline/offline-cookbook/) [read]
+* [Offline Quickstart](https://developers.google.com/web/ilt/pwa/offline-quickstart)[read]
 
 
 

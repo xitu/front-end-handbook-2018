@@ -1,12 +1,12 @@
-# SEO 工具
+# SEO Tools
 
-* [关键字工具](http://keywordtool.io/)
-* [Google 网站管理员搜索控制台](https://www.google.com/webmasters/)
+* [Keyword Tool](http://keywordtool.io/)
+* [Google Webmasters Search Console](https://www.google.com/webmasters/)
 * [Varvy SEO tool](https://varvy.com/tools/)
 
-##### 查找 SEO 工具的工具：
+##### Tools for Finding SEO Tools:
 
-* [SEO 工具 —— 完整列表](http://backlinko.com/seo-tools)
+* [SEO Tools - The Complete List](http://backlinko.com/seo-tools)
 
 
 

@@ -1,29 +1,29 @@
-# 数据可视化（例如图表）工具
+# Data Visualization (e.g., Charts) Tools
 
-##### JS 库：
+##### JS Libraries:
 
 * [d3](http://d3js.org/)
 * [sigmajs](http://sigmajs.org/)
 
-##### 小部件 & 组件:
+##### Widgets & Components:
 
-* [amCharts](http://www.amcharts.com/) [免费 $]
-* [AnyChart](http://www.anychart.com/) [非商业则免费 $]
+* [amCharts](http://www.amcharts.com/) [free to $]
+* [AnyChart](http://www.anychart.com/) [Non-commercial free to $]
 * [C3.js](http://c3js.org/)
 * [Chartist-jsj](https://github.com/gionkunz/chartist-js)
 * [Chart.js](http://www.chartjs.org/)
 * [Epoch](http://epochjs.github.io/epoch/)
 * [FusionCharts](http://www.fusioncharts.com/) [$]
 * [Google Charts](https://developers.google.com/chart/interactive/docs/)
-* [Highcharts](http://www.highcharts.com/) [非商业则免费 $]
-* [ZingChart](http://www.zingchart.com/) [免费 $]
+* [Highcharts](http://www.highcharts.com/) [Non-commercial free to $]
+* [ZingChart](http://www.zingchart.com/) [free to $]
 
-##### 服务（即用于嵌入和共享的托管数据可视化服务）：
+##### Services (i.e. hosted data visualization services for embedding and sharing):
 
-* [ChartBlocks](http://www.chartblocks.com/) [免费 $]
+* [ChartBlocks](http://www.chartblocks.com/) [free to $]
 * [Datawrapper](https://datawrapper.de/)
-* [infogr.am](https://infogr.am) [免费 $]
-* [plotly](https://plot.ly/) [免费 $]
+* [infogr.am](https://infogr.am) [free to $]
+* [plotly](https://plot.ly/) [free to $]
 
 
 

@@ -1,31 +1,29 @@
-# 学习 Web 字体，图标与图片
+# Learn Web Fonts, Icons, & Images
 
-> Web 排版是指在万维网上使用字体。在最初 HTML 被创建时，字体与样式是由各个浏览器的设置专门控制的。直到 Netscape 1995 年引入了 `<font>` 标签，HTML 3.2 规范中将此标准化后，才有了单独的网页控制字体显示的机制。然而，标签所指定的字体必须被安装在用户的计算机上才可使用，否则将使用后备字体，比如浏览器的默认无衬线字体或等宽字体。第一个层叠样式表（CSS）规范发布于 1996 年并提供了相同的功能。
->
-> CSS2 规范发布于 1998 年，试图通过提高字体匹配，合成和下载来改进字体的选择过程。这些技术并没有得到太多的使用，在 CSS2.1 规范中就被删除了。但是，Internet Explorer 浏览器在 4.0 版本中添加了对字体下载功能的支持。字体下载后来被包含在 CSS3 规范中的字体模块中，已经在 Safari 3.1 版本，Opera 10 版本以及 Mozilla Firefox 3.5 版本中实现。这一变更随后增加了公众对于 Web 排版兴趣与字体下载的使用。
+> Web typography refers to the use of fonts on the World Wide Web. When HTML was first created, font faces and styles were controlled exclusively by the settings of each Web browser. There was no mechanism for individual Web pages to control font display until Netscape introduced the `<font>` tag in 1995, which was then standardized in the HTML 3.2 specification. However, the font specified by the tag had to be installed on the user's computer or a fallback font, such as a browser's default sans-serif or monospace font, would be used. The first Cascading Style Sheets specification was published in 1996 and provided the same capabilities.
+> 
+> The CSS2 specification was released in 1998 and attempted to improve the font selection process by adding font matching, synthesis and download. These techniques did not gain much use, and were removed in the CSS2.1 specification. However, Internet Explorer added support for the font downloading feature in version 4.0, released in 1997. Font downloading was later included in the CSS3 fonts module, and has since been implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in Web typography, as well as the usage of font downloading.
 
-><cite>&#8212; [维基百科](https://en.wikipedia.org/wiki/Web_typography)</cite>
+><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Web_typography)</cite>
 
-##### 字体：
+##### Fonts:
 
-* [字体加载策略综合指南](https://www.zachleat.com/web/comprehensive-webfonts/) [阅读]
-* [美丽的 Web：Google Web 字体目录中最佳字体的展示](http://hellohappy.org/beautiful-web-type/) [阅读]
-* [使用 @font-face 控制字体的快速指南](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [阅读]
-* [MDN: Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) [阅读]
-* [响应式排版](https://frontendmasters.com/courses/responsive-typography/) [观看][$付费]
-* [Web 排版](http://www.pluralsight.com/courses/typography-for-web-1790) [观看][$付费]
+* [A Comprehensive Guide to Font Loading Strategies](https://www.zachleat.com/web/comprehensive-webfonts/) [read]
+* [Beautiful Web Type a Showcase of the Best Typefaces from the Google Web Fonts Directory](http://hellohappy.org/beautiful-web-type/) [read]
+* [Quick Guide to Webfonts via @font-face](http://www.html5rocks.com/en/tutorials/webfonts/quick/) [read]
+* [MDN: Web fonts](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Web_fonts) [read]
+* [Responsive Typography](https://frontendmasters.com/courses/responsive-typography/) [watch][$]
+* [Typography for the Web](http://www.pluralsight.com/courses/typography-for-web-1790) [watch][$]
 
-##### 图标：
+##### Icons:
 
-* [[阅读]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) [观看]
+* [[read]](https://www.lynda.com/CSS-tutorials/Web-Icons-SVG/502312-2.html) [watch]
 
-##### 图片：
+##### Images:
 
-* [MDN: Images in HTMLb](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) [阅读]
-* [MDN: Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) [阅读]
-* [Web 上的 SVG 实践指南](https://svgontheweb.com/) [阅读]
-
-
+* [MDN: Images in HTMLb](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML) [read]
+* [MDN: Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images) [read]
+* [SVG ON THE WEB - A Practical Guide](https://svgontheweb.com/) [read]
 
 
 
@@ -44,6 +42,8 @@
 
 
 
+
+ 
 
 
 

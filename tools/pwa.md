@@ -1,7 +1,7 @@
-# 渐进式 Web 应用程序工具：
+# Progressive Web App Tools:
 
 * [lighthouse](https://developers.google.com/web/tools/lighthouse/)
-* [渐进式 Web 应用程序清单](https://developers.google.com/web/progressive-web-apps/checklist)
+* [Progressive Web App Checklist](https://developers.google.com/web/progressive-web-apps/checklist)
 
 
 

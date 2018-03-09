@@ -1,15 +1,15 @@
-# 后端/API 工具
+# Back-end/API tools
 
-##### 数据/后端即服务（又名 BAAS）：
+##### Data/back-end as a service aka BAAS:
 
-* [Back&](https://www.backand.com/) [免费 $]
+* [Back&](https://www.backand.com/) [free to $]
 * [Backendless](https://backendless.com)
-* [Firebase](https://www.firebase.com/index.html) [免费 $]
-* [Pusher](https://pusher.com/) [免费 $]
-* [restdb.io](https://restdb.io/) [免费 $]
+* [Firebase](https://www.firebase.com/index.html) [free to $]
+* [Pusher](https://pusher.com/) [free to $]
+* [restdb.io](https://restdb.io/) [free to $]
 * [MongoDB Stitch](https://www.mongodb.com/cloud/stitch)
 
-##### 数据/后端
+##### Data/back-end
 
 * [GraphQL](http://graphql.org/)
   * [Apollo](http://www.apollodata.com/)
@@ -17,13 +17,13 @@
 * [Falcor](https://netflix.github.io/falcor/)
 * [RxDB](https://github.com/pubkey/rxdb)
 
-##### 用户管理即服务:
+##### User Management as a Service:
 
 * [Auth0](https://auth0.com) [$]
 * [AuthRocket](https://authrocket.com)
 * [Okta](https://developer.okta.com/)
 
-##### 搜索
+##### Search
 
 * [Algolia](https://www.algolia.com)
 

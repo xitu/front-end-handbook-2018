@@ -1,21 +1,21 @@
-# 学习模块化
+# Learn Modules
 
-##### 通用知识：
+##### General Learning:
 
 * [jsmodules.io](http://jsmodules.io/)
-* [深入 ES6 模块](https://ponyfoo.com/articles/es6-modules-in-depth) [阅读]
-* [Exploring JS - 模块](http://exploringjs.com/es6/ch_modules.html#ch_modules) [阅读]
+* [ES6 Modules in Depth](https://ponyfoo.com/articles/es6-modules-in-depth) [read]
+* [Exploring JS - Modules](http://exploringjs.com/es6/ch_modules.html#ch_modules) [read]
 
-##### 参考/文档：
+##### References/Docs:
 
 * [MDN - export](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export)
 * [MDN - import](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import)
 
 ***
 
-###### 注意：
+###### NOTES:
 
-我们仍在等待各浏览器[广泛支持](https://caniuse.com/#feat=es6-module)模块加载。在此之前，可以先看看这些：["ES 模块加载器 Polyfill"](https://github.com/ModuleLoader/es-module-loader)，["JavaScript 模块加载器标准"](https://whatwg.github.io/loader/)，和[浏览器中的 ECMAScript 模块](https://jakearchibald.com/2017/es-modules-in-browsers/)。
+We are still waiting on [wide support](https://caniuse.com/#feat=es6-module) in browsers for loading modules. Until then you can have a look at, ["ES Module Loader Polyfill"](https://github.com/ModuleLoader/es-module-loader), ["JavaScript Loader Standard"](https://whatwg.github.io/loader/), and [ECMAScript modules in browsers](https://jakearchibald.com/2017/es-modules-in-browsers/).
 
 
 

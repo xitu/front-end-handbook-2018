@@ -1,3 +1,3 @@
-# 第一章
+# First Chapter
 
-GitBook 让你将书籍组织成章节，每章节都是一个单独的文件，就像这一个一样。
+GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.

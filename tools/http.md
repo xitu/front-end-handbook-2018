@@ -1,11 +1,11 @@
-# HTTP/网络工具
+# HTTP/Network Tools
 
 * [Charles](http://www.charlesproxy.com/) [$]
-* [Chrome 网络开发工具面板](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading)
-* [Insomnia](https://insomnia.rest/) [免费 - $]
-* [Mitmproxy](https://mitmproxy.org/) [免费]
+* [Chrome DevTools Network Panel](https://developers.google.com/web/tools/chrome-devtools/profile/network-performance/resource-loading)
+* [Insomnia](https://insomnia.rest/) [free - $]
+* [Mitmproxy](https://mitmproxy.org/) [free]
 * [Paw](https://paw.cloud/) [$]
-* [Postman](https://www.getpostman.com/) [免费 - $]
+* [Postman](https://www.getpostman.com/) [free - $]
 
 
 

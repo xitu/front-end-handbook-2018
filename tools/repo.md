@@ -1,4 +1,4 @@
-# 模块/包仓库工具
+# Module/Package Repository Tools
 
 * [NPM](https://www.npmjs.com/)
 * [yarn](https://yarnpkg.com/)
@@ -6,9 +6,9 @@
 
 ***
 
-###### 注意:
+###### NOTES:
 
-密切关注 [turbo](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403).
+Keep an eye on [turbo](https://medium.com/@ericsimons/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403).
 
 
 

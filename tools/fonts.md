@@ -1,12 +1,12 @@
-# 字体工具
+# Font Tools 
 
-##### 免费的 web 字体：
+##### Free Web Fonts:
 
-* [fonts.com](http://www.fonts.com/) [免费 $]
+* [fonts.com](http://www.fonts.com/) [free to $]
 * [Google Fonts](http://fortawesome.github.io/Font-Awesome/)
-* [TypeKit](https://typekit.com) [免费 $]
+* [TypeKit](https://typekit.com) [free to $]
 
-##### 图标字体：
+##### Icon Fonts:
 
 * [Devicons](http://vorillaz.github.io/devicons/#/main)
 * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
@@ -14,7 +14,7 @@
 * [GitHub Octicons](https://octicons.github.com/)
 * [ionicons](http://ionicons.com/)
 
-##### JS 字体工具：
+##### JS Font Tools:
 
 * [FlowType.js](http://simplefocus.com/flowtype/)
 * [localFont](https://github.com/jaicab/localFont)

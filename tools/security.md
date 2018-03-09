@@ -1,19 +1,19 @@
-# 安全工具
+# Security Tools
 
-##### 编码工具：
+##### Coding Tool:
 
 * [DOMPurify](https://github.com/cure53/DOMPurify)
 * [XSS](http://jsxss.com/en/index.html)
 
-##### 安全检查器/评测器/测试器：
+##### Security Scanners/Evaluators/Testers:
 
 * [Netsparker](https://www.netsparker.com)
 * [Websecurify](http://www.websecurify.com/)
 * [OWASP ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project)
 
-##### 参考：
+##### References:
 
-* [HTML5安全备忘单](https://html5sec.org/)
+* [HTML5 Security Cheatsheet](https://html5sec.org/)
 
 
 
