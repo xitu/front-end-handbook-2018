@@ -24,6 +24,7 @@
 ##### 在线 JSON 模拟 API 工具：
 
 * [FillText.com](http://www.filltext.com/)
+* [FakeJSON](https://fakejson.com) [免费 $]
 * [Jam API](https://github.com/dinubs/jam-api)
 * [JSONPlaceholder](http://jsonplaceholder.typicode.com/)
 * [jsonbin.io](https://jsonbin.io)
