@@ -1,14 +1,14 @@
 # 学习 HTTP/Networks（包括 CORS 和 WebSockets）
 
-> **HTTP** - 超文本传输协议（HTTP）是分布式、协作、超媒体信息系统的应用协议。HTTP 是万维网数据通信的基础。
+> **HTTP** — 超文本传输协议（HTTP）是分布式、协作、超媒体信息系统的应用协议。HTTP 是万维网数据通信的基础。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)</cite>
 
-> **CORS** - 跨域资源共享（CORS）是一种机制，允许网页向非本域下的资源提供者请求受限制的资源（比如字体）。
+> **CORS** — 跨域资源共享（CORS）是一种机制，允许网页向非本域下的资源提供者请求受限制的资源（比如字体）。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/Cross-origin_resource_sharing)</cite>
   
->**WebSockets** -  WebSocket 是一种在单个 TCP 连接上进行全双工通讯的协议。WebSocket 通信协议于 2011 年被 IETF 以 RFC 6455 标准化，Web IDL 中的 WebSocket API 也被 W3C 确定为标准。
+>**WebSockets** —  WebSocket 是一种在单个 TCP 连接上进行全双工通讯的协议。WebSocket 通信协议于 2011 年被 IETF 以 RFC 6455 标准化，Web IDL 中的 WebSocket API 也被 W3C 确定为标准。
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/WebSocket)</cite>
 
