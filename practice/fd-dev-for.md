@@ -33,7 +33,7 @@ Generally speaking, front-end technologies can run on the aforementioned operati
 * A native application built from web tech that is interpreted at runtime with a bridge to native APIs. The UI will make use of native UI parts (e.g., iOS native controls) not web technologies. (examples: [NativeScript](https://www.nativescript.org/), [React Native](https://facebook.github.io/react-native/))
 
 
-
+ 
 
 
 
