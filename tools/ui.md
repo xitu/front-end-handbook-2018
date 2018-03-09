@@ -1,4 +1,4 @@
-# UI 控件和 UI 组件集合
+# UI 控件和 UI 套件
 
 ##### Web 平台： [^1]
 
@@ -9,7 +9,7 @@
 * [UiKit](https://getuikit.com/)
 * [Webix](http://webix.com/) [$]
 
-##### Web 平台，React 限定：
+##### Web 平台，仅限于 React：
 
 * [Ant Design](https://ant.design/)
 * [Material ui](http://material-ui.com/)
@@ -27,48 +27,3 @@
 ###### 建议：
 
 [^1] 如果只你需要一组基本的 UI 控件/组件，那么可以看看 [Semantic UI](http://semantic-ui.com/)。如果您正在构建的应用需要网格、电子表格或数据透视表格，则可以看看 [Kendo UI](http://www.telerik.com/kendo-ui) 或者 [Webix](http://webix.com/)。请记住，这些解决方案大部分仍然需要 jQuery。
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
-
-
-
-
-
