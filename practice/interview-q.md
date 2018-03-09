@@ -8,6 +8,7 @@
 * [前端开发者的面试问题](http://thatjsdude.com/interview/index.html)
 * [JavaScript Web 测试](http://davidshariff.com/js-quiz/)
 * [最好的前端 JavaScript 面试问题(由前端工程师编写)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(Written-by-a-Frontend-Engineer))
+* [前端面试指南](https://github.com/yangshun/front-end-interview-handbook)
 
 ##### 你提的问题：
 
