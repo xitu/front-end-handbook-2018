@@ -18,6 +18,7 @@
 * [Node.js 实战](https://www.amazon.com/Node-js-Practice-Alex-R-Young/dp/1617290939/?&_encoding=UTF8&tag=frontend-handbook-20&linkCode=ur2&linkId=e202c01e97ebad79157fab3b59723e94&camp=1789&creative=9325) [阅读][$]
 * [用 Node.js 构建实时 Web](https://www.codeschool.com/courses/real-time-web-with-node-js) [观看]
 * [在 Amazon Web Services 上从入门到上线 Node.js 应用](https://frontendmasters.com/courses/production-node-aws/) [观看][$]
+* [REST & GraphQL API Design in Node.js, v2（使用 Express & MongoDB）](https://frontendmasters.com/courses/api-node-rest-graphql/) [观看][$]
 * [学习 Node](https://learnnode.com/) [观看][$]
 
 
