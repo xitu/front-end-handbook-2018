@@ -4,7 +4,7 @@
 
 [Frontend Masters](https://frontendmasters.com/) 赞助，用深入的、现在的前端工程课程提升你的技能。
 
-![](cover.jpg)
+![Front End Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)
 
 这是一个任何人都可以用来学习前端开发实践的指南。它大致地概括并讨论了前端工程的实践：如何学习前端以及在 2018 年开发中用到的工具。
 
@@ -140,16 +140,17 @@
 
 **在线阅读**:
 
-* [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
+* [https://frontendmasters.com/books/front-end-handbook/2018/](https://frontendmasters.com/books/front-end-handbook/2018/)
 
 **下载 .pdf, .epub, or .mob 格式的文件**:
 
 * 中文：[https://www.gitbook.com/book/leviding/front-end-handbook-2018/details](https://www.gitbook.com/book/leviding/front-end-handbook-2018/details)
 * 英文：[https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
-**贡献内容、提建议或者修复 GitHub 上的 bugs**:
+**贡献内容、提建议或者修复 GitHub 上的 bugs**：
 
-* [https://github.com/xitu/front-end-handbook-2018](https://github.com/xitu/front-end-handbook-2018)
+* 中文：[https://github.com/xitu/front-end-handbook-2018](https://github.com/xitu/front-end-handbook-2018)
+* 英文：[https://github.com/FrontendMasters/front-end-handbook-2018](https://github.com/FrontendMasters/front-end-handbook-2018)
 
 ***
 
