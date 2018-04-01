@@ -2,7 +2,7 @@
 
 由 [Cody Lindley](http://codylindley.com/)  撰写，[Frontend Masters](https://frontendmasters.com/) 提供赞助
 
-![](cover.jpg)
+![Front End Handbook 2018 Cover](https://frontendmasters.com/books/front-end-handbook/2018/cover.jpg)
 
 这是任何人都可以用来了解前端开发实践的指南。 它概括地阐述和讨论了前端工程的实践：如何在2018年在实践中学习它以及使用什么样的工具。
 
@@ -32,7 +32,7 @@
  
 **下载 .pdf, .epub, 或者 .mobi 文件请到**:
 
-* [https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/](https://frontendmasters.gitbooks.io/front-end-developer-handbook-2018/)
+* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 **在 github 上贡献内容、提建议和修复 bug**:
 
