@@ -5,10 +5,10 @@
 * 前端 HTML & CSS 开发者和前端应用程序开发者之间的[巨大区别](https://medium.com/@jerrylowm/the-death-of-front-end-developers-803a95e0f411)终于[被认知，并重新定义](https://medium.com/@mandy.michael/is-there-any-value-in-people-who-cannot-write-javascript-d0a66b16de06)。
 * 作为使用 web 技术构建应用程序的前端 JavaScript 开发者变得越来越好，也[越来越糟](https://blog.logrocket.com/the-increasing-nature-of-frontend-complexity-b73c784c09ae)。
 * 今年似乎比往年更多的涌现出一批试图与主流 JavaScript 应用工具（[React，Angular，Vue 等](https://stateofjs.com/2017/front-end/results)）相抗衡的应用程序/框架解决方案。我来列举一部分，[Moon](http://moonjs.ga/docs/overview.html)，[Marko](https://markojs.com/)，[Hyperapp](https://github.com/hyperapp/hyperapp)，[Quasar Framework](http://quasar-framework.org/)，[POI](https://poi.js.org)，[frint](https://frint.js.org/)，[BunnyJS](https://bunnyjs.com/)，[jsblocks](http://jsblocks.com/)，[Sapper](https://sapper.svelte.technology/)，[Stimulus](https://github.com/stimulusjs/stimulus)，[Choo](https://github.com/choojs/choo)...
-* jsbin 和 jsfiddle 进化成了 [StackBliz](https://stackblitz.com/) 和 [codeSandbox](https://codesandbox.io/) 的样子，它们让分享一个应用程序变得如此简单。
+* jsbin 和 jsfiddle 进化成了 [StackBlitz](https://stackblitz.com/) 和 [CodeSandbox](https://codesandbox.io/) 的样子，它们让分享一个应用程序变得如此简单。
 * React 继续被 [preact](https://preactjs.com/)，[inferno](https://infernojs.org/)，[nerv](https://github.com/NervJS/nerv)，[dva](https://github.com/dvajs/dva) 和 [rax](https://github.com/alibaba/rax) 之类的所追捧。
 * [devhints.io](https://devhints.io/) 很好地将 cheatsheets 组织了起来。
-* 我们发现应用程序的样板或者命令行工具是带有偏见的，例如 [React Create App](https://github.com/facebookincubator/create-react-app)，必要的时候我们要从中逃离。
+* 我们发现应用程序的样板或者命令行工具是带有偏见的，例如 [Create React App](https://github.com/facebookincubator/create-react-app)，必要的时候我们要从中逃离。
 * 大多数开发人员发现，一个好的[代码编辑器](https://code.visualstudio.com/)，[eslint ](https://eslint.org/)以及 [prettier](https://github.com/prettier/prettier) 的组合使写代码这件事更快，更轻松愉快。
 * CSS [Flexbox](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) 和 [Grid](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) 获得浏览器支持，因此越来越多开发者开始关注这两者。
 * 我们[终于](https://blog.chromium.org/2017/05/chrome-59-beta-headless-chromium-native.html)有[无头的 Chrome](https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md) 了。
