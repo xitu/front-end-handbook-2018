@@ -146,12 +146,14 @@
 
 * [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
+**贡献内容、提建议或者修复 GitHub 上的 bugs**:
+
+* [https://github.com/xitu/front-end-handbook-2018](https://github.com/xitu/front-end-handbook-2018)
+
 ***
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/3.0/88x31.png" /></a><br />该作品经 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported License</a> 许可。
 
+## 致谢
 
-
-
-
-
+- [掘金翻译计划](https://github.com/xitu/gold-miner/)
