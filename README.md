@@ -144,7 +144,8 @@
 
 **下载 .pdf, .epub, or .mob 格式的文件**:
 
-* [https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
+* 中文：[https://www.gitbook.com/book/leviding/front-end-handbook-2018/details](https://www.gitbook.com/book/leviding/front-end-handbook-2018/details)
+* 英文：[https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details](https://www.gitbook.com/book/frontendmasters/front-end-developer-handbook-2018/details)
 
 **贡献内容、提建议或者修复 GitHub 上的 bugs**:
 
