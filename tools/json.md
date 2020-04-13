@@ -18,6 +18,7 @@
 
 ##### 生成模拟 JSON 数据的工具：
 
+* [ExtendsClass](https://extendsclass.com/json-generator.html)
 * [JSON Generator](http://www.json-generator.com/)
 * [Mockaroo](https://www.mockaroo.com/) [免费 $]
 
