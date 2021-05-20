@@ -22,6 +22,7 @@
 * [解释 JavaScript 中的 'this' 关键字](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
 * [你不知道的 JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
 * [现代 JavaScript 备忘录 - 现代项目经常会用到的 JavaScript 知识备忘录](https://github.com/mbeaudru/modern-js-cheatsheet) [read]
+* [Javascript Interview Questions](https://www.interviewbit.com/javascript-interview-questions/) [read]
 
 ##### 掌握:
 
